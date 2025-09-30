@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/1185818338_2107434440_223132457.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_1839128356_173466268.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_3484125138_2375220172.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_1839128356_70703358.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_842043819_1688392557.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_1839128356_2464742224.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_3610094982_3858844411.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_2408024828_2936836245.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupOperations/624642324_1812828889_1604034290.mp4'

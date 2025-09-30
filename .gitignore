@@ -1,0 +1,9 @@
+# Manim output files
+media/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+render_log.txt
+nohup.out

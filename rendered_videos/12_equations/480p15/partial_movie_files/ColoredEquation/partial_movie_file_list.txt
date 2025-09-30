@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/ColoredEquation/1185818338_2557225219_223132457.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/ColoredEquation/624642324_1734327179_1466699919.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/ColoredEquation/624642324_75447102_1971886683.mp4'

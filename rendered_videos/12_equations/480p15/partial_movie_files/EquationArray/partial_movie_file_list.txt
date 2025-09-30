@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/1185818338_2130675569_223132457.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_3201849554_2142863886.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_1443479645_4053103017.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_3201849554_2060540745.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_2836901092_3498686311.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_3201849554_3804306504.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_2408024828_1019425635.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/EquationArray/624642324_489813090_61257058.mp4'

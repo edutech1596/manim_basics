@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupWithText/1185818338_1440280944_223132457.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupWithText/624642324_2408024828_432691388.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/11_groups/480p15/partial_movie_files/GroupWithText/624642324_13744430_684824741.mp4'

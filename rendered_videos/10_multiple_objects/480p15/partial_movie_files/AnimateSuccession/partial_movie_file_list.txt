@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_basics/media/videos/10_multiple_objects/480p15/partial_movie_files/AnimateSuccession/1185818338_1548642928_2358810818.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/10_multiple_objects/480p15/partial_movie_files/AnimateSuccession/624642324_2408024828_364297653.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/10_multiple_objects/480p15/partial_movie_files/AnimateSuccession/624642324_2791618377_1725385364.mp4'

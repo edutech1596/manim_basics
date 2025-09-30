@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/TransformEquation/1185818338_1715136508_223132457.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/TransformEquation/624642324_1839128356_3054801123.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/TransformEquation/624642324_3036159131_2852094178.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/TransformEquation/624642324_2408024828_536047782.mp4'
+file 'file:/Users/apple/manim_basics/media/videos/12_equations/480p15/partial_movie_files/TransformEquation/624642324_2784587655_2725275169.mp4'
