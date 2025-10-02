@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,148
+The yellow line always connects the circle
+
+2
+00:00:03,248 --> 00:00:05,468
+to the dot, even as they move.
+
+3
+00:00:05,533 --> 00:00:09,873
+Watch the line update automatically as the circle moves right.
+
+4
+00:00:10,000 --> 00:00:13,212
+And as it moves up, the line follows.
+
+5
+00:00:13,333 --> 00:00:17,697
+Always redraw creates dynamic, responsive objects.
+
+6
+00:00:17,733 --> 00:00:19,361
+Removing everything.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,316
+Let's create three shapes to demonstrate removal animations.
+
+2
+00:00:04,466 --> 00:00:09,358
+Uncreate is the reverse of Create, it un-draws the object.
+
+3
+00:00:09,466 --> 00:00:13,230
+FadeOut gradually makes the object transparent.
+
+4
+00:00:13,333 --> 00:00:16,245
+ShrinkToCenter shrinks the object to
+
+5
+00:00:16,345 --> 00:00:19,257
+a point, opposite of GrowFromCenter.
+

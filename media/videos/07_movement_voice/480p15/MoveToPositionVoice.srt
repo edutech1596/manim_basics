@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,660
+We have a green square at the center.
+
+2
+00:00:02,800 --> 00:00:08,532
+MoveT o places it at an absolute position, like the top-left corner.
+
+3
+00:00:08,666 --> 00:00:10,942
+Now to the bottom-right corner.
+
+4
+00:00:11,066 --> 00:00:13,438
+And back to the exact center.
+
+5
+00:00:13,600 --> 00:00:16,812
+Move to is useful for precise positioning.
+

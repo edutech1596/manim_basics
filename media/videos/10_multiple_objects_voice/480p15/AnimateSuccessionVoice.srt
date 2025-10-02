@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,047
+AnimationGroup controls timing with lag ratio. These
+
+2
+00:00:04,147 --> 00:00:08,036
+circles overlap their animations by fifty percent.
+
+3
+00:00:08,200 --> 00:00:10,836
+This creates a cascading effect.
+
+4
+00:00:10,933 --> 00:00:12,705
+Removing the circles.
+

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,652
+The Write animation writes text letter by letter, like typing.
+
+2
+00:00:04,800 --> 00:00:07,652
+It creates a natural writing effect.
+
+3
+00:00:07,733 --> 00:00:09,337
+Removing the text.
+
+4
+00:00:09,466 --> 00:00:13,518
+Write also works on shapes, tracing their outline.
+
+5
+00:00:13,666 --> 00:00:15,918
+It's a versatile animation.
+
+6
+00:00:16,000 --> 00:00:17,580
+Removing the circle.
+

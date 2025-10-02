@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,156
+Let's create a blue circle.
+
+2
+00:00:02,266 --> 00:00:05,454
+We can add a label that appears in the center.
+
+3
+00:00:05,600 --> 00:00:09,652
+Now we'll move the label above the circle for better clarity.
+
+4
+00:00:09,800 --> 00:00:14,620
+Combining shapes with text labels makes diagrams more informative.
+
+5
+00:00:14,666 --> 00:00:16,294
+Removing everything.
+

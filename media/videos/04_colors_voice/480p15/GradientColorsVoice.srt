@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,580
+We can create smooth color gradients by blending multiple colors.
+
+2
+00:00:04,733 --> 00:00:08,641
+This gradient transitions from red to yellow to green.
+
+3
+00:00:08,733 --> 00:00:11,801
+Gradients add visual appeal to shapes.
+

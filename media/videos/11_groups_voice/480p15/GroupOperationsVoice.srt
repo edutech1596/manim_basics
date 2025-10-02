@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,852
+We have five blue circles in a group.
+
+2
+00:00:03,000 --> 00:00:05,828
+We can scale the entire group larger.
+
+3
+00:00:05,933 --> 00:00:09,337
+Rotate all circles around their common center.
+
+4
+00:00:09,466 --> 00:00:12,558
+And change the color of the whole group to red.
+
+5
+00:00:12,666 --> 00:00:16,862
+Group operations apply to all members simultaneously.
+
+6
+00:00:16,933 --> 00:00:18,393
+Removing the group.
+

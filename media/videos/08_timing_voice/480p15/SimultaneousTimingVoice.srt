@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,424
+Simultaneous animations happen all at once.
+
+2
+00:00:03,524 --> 00:00:06,212
+All three circles appear together.
+
+3
+00:00:06,333 --> 00:00:09,137
+Now they all move up at the same time.
+
+4
+00:00:09,266 --> 00:00:13,054
+Simultaneous timing creates coordinated motion.
+
+5
+00:00:13,133 --> 00:00:15,193
+Removing everything together.
+

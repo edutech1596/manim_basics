@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,372
+We have a blue reference square.
+
+2
+00:00:02,533 --> 00:00:06,557
+Four circles are aligned to the square's edges:
+
+3
+00:00:06,657 --> 00:00:10,857
+red left, green right, yellow top, purple bottom.
+
+4
+00:00:11,000 --> 00:00:15,844
+Align to positions objects precisely relative to other objects.
+
+5
+00:00:15,933 --> 00:00:17,321
+Clearing the scene.
+

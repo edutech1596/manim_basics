@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,188
+Text can be colored. This text is blue.
+
+2
+00:00:03,333 --> 00:00:06,041
+Text can be large, like this.
+
+3
+00:00:06,200 --> 00:00:09,196
+Or text can be small, like this.
+
+4
+00:00:09,333 --> 00:00:13,337
+Size and color give us control over text appearance.
+
+5
+00:00:13,400 --> 00:00:15,100
+Removing all text.
+

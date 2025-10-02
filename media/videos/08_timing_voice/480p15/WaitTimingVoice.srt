@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,284
+We create a blue circle and pause to view it.
+
+2
+00:00:03,400 --> 00:00:05,508
+Now it changes to red.
+
+3
+00:00:05,666 --> 00:00:07,726
+Then it moves to the right.
+
+4
+00:00:07,866 --> 00:00:11,198
+Wait gives viewers time to process what they see.
+
+5
+00:00:11,266 --> 00:00:12,846
+Removing the circle.
+

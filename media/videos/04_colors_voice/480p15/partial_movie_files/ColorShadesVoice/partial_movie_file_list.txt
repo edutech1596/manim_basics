@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/ColorShadesVoice/1185818338_149017868_223132457.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/ColorShadesVoice/624642324_3756920396_3476060837.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/ColorShadesVoice/624642324_3662425285_3803822320.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/ColorShadesVoice/624642324_3012801754_1666280314.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/ColorShadesVoice/624642324_922544722_1154406373.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/ColorShadesVoice/624642324_2628258355_2133856158.mp4'

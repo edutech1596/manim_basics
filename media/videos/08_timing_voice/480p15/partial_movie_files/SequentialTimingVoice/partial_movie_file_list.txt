@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/1185818338_432821648_223132457.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_3975398728_2466804083.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_1393983006_1208161406.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_712216877_3537539591.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_3023364614_1060771593.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_2407006165_3636250191.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_2396785028_1098884134.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/SequentialTimingVoice/624642324_3822982216_3927190820.mp4'

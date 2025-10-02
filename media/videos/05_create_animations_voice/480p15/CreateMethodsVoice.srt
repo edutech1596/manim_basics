@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,820
+The Create animation draws the object's border from start to finish.
+
+2
+00:00:04,933 --> 00:00:10,065
+FadeIn gradually increases opacity, making the object appear.
+
+3
+00:00:10,200 --> 00:00:14,636
+GrowFromCenter makes the object expand from a tiny point.
+
+4
+00:00:14,800 --> 00:00:18,108
+Each method creates a different visual effect.
+
+5
+00:00:18,200 --> 00:00:20,116
+Removing all objects.
+

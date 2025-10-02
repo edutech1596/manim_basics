@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:05,756
+We start with the expanded form: X squared plus two X plus one.
+
+2
+00:00:05,866 --> 00:00:11,430
+Watch it transform into the factored form: X plus one, squared.
+
+3
+00:00:11,533 --> 00:00:15,129
+This shows algebraic simplification visually.
+
+4
+00:00:15,200 --> 00:00:17,020
+Removing the equation.
+

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,268
+The top circle moves with linear speed, constant throughout.
+
+2
+00:00:04,333 --> 00:00:08,334
+The middle circle uses smooth rate function, slow
+
+3
+00:00:08,434 --> 00:00:11,097
+at start and end, fast in middle.
+
+4
+00:00:11,133 --> 00:00:16,529
+The bottom circle rushes into the end, starting slow and speeding up.
+
+5
+00:00:16,600 --> 00:00:21,516
+Rate functions control how animations accelerate and decelerate.
+
+6
+00:00:21,600 --> 00:00:22,988
+Clearing the scene.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,068
+Here's the Pythagorean theorem at the top.
+
+2
+00:00:03,200 --> 00:00:05,836
+The Gaussian integral in the middle.
+
+3
+00:00:06,000 --> 00:00:09,284
+And the Basel problem solution at the bottom.
+
+4
+00:00:09,400 --> 00:00:12,636
+Multiple equations can be displayed together.
+
+5
+00:00:12,733 --> 00:00:14,769
+Removing all equations.
+

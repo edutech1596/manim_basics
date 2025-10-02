@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/CustomColorsVoice/1185818338_793089419_223132457.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/CustomColorsVoice/624642324_2387513327_3831025503.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/04_colors_voice/480p15/partial_movie_files/CustomColorsVoice/624642324_2679800620_527054744.mp4'

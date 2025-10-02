@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:05,276
+Let's explore more shapes. First, a yellow rectangle at the top.
+
+2
+00:00:05,400 --> 00:00:08,348
+Next, a purple ellipse in the middle.
+
+3
+00:00:08,466 --> 00:00:12,086
+Finally, an orange hexagon at the bottom.
+
+4
+00:00:12,200 --> 00:00:17,020
+These are slightly more complex shapes than basic circles and squares.
+
+5
+00:00:17,066 --> 00:00:18,742
+Let's clear the screen.
+

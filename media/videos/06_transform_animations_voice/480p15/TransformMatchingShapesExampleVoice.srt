@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,996
+We have a group with a circle and a square.
+
+2
+00:00:03,133 --> 00:00:06,941
+TransformMatchingShapes intelligently morphs between
+
+3
+00:00:07,041 --> 00:00:09,873
+groups, matching corresponding objects.
+
+4
+00:00:10,000 --> 00:00:14,412
+This creates smooth transitions between complex arrangements.
+
+5
+00:00:14,466 --> 00:00:16,094
+Removing the shapes.
+

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# macOS
+.DS_Store
+
+# Manim temporary/cache files (keep rendered videos)
+media/videos/*/partial_movie_files/
+*.tmp
+*.temp
+nohup.out
+render_progress.log

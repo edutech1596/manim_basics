@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:05,396
+Manim provides five shades for each color, from lightest to darkest.
+
+2
+00:00:05,533 --> 00:00:07,905
+Here are five shades of red.
+
+3
+00:00:08,000 --> 00:00:10,156
+Now let's see blue shades.
+
+4
+00:00:10,266 --> 00:00:13,550
+Five shades of blue, from light to dark.
+
+5
+00:00:13,666 --> 00:00:16,902
+Shades give us fine control over colors.
+
+6
+00:00:17,000 --> 00:00:18,388
+Clearing the scene.
+

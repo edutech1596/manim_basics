@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,105
+List comprehension creates multiple objects in one line
+
+2
+00:00:04,205 --> 00:00:07,700
+of code. Watch ten squares appear sequentially.
+
+3
+00:00:08,200 --> 00:00:11,412
+This is an efficient way to create patterns.
+
+4
+00:00:11,466 --> 00:00:13,334
+Removing all squares.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,916
+We write the word Hello.
+
+2
+00:00:02,066 --> 00:00:04,558
+Now it transforms into World.
+
+3
+00:00:04,666 --> 00:00:09,198
+And finally it becomes a longer message: Manim is awesome!
+
+4
+00:00:09,333 --> 00:00:12,785
+Text transformations are great for storytelling.
+
+5
+00:00:12,866 --> 00:00:14,350
+Clearing the text.
+

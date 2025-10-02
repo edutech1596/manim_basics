@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,596
+Here's a title explaining what theorem we're showing.
+
+2
+00:00:03,733 --> 00:00:06,969
+The equation itself, nicely sized.
+
+3
+00:00:07,133 --> 00:00:10,417
+And a description providing context below.
+
+4
+00:00:10,533 --> 00:00:14,993
+Combining text and equations creates complete explanations.
+
+5
+00:00:15,066 --> 00:00:16,550
+Clearing the screen.
+

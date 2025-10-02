@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,305
+Groups are great for combining shapes with their
+
+2
+00:00:03,405 --> 00:00:06,356
+labels. Here's a labeled circle and square.
+
+3
+00:00:06,466 --> 00:00:10,398
+Each group includes both the shape and its text label.
+
+4
+00:00:10,466 --> 00:00:12,262
+Removing both groups.
+

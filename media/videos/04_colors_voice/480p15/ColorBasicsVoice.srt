@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,158
+Manim has built-in colors: red, orange,
+
+2
+00:00:04,258 --> 00:00:07,652
+yellow, green, blue, and purple.
+
+3
+00:00:07,800 --> 00:00:11,564
+These colors can be used for any shape or object.
+
+4
+00:00:11,600 --> 00:00:13,540
+Removing the color palette.
+

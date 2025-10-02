@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,748
+We can start with an empty group and add squares one by one.
+
+2
+00:00:04,933 --> 00:00:08,649
+Now they're all grouped, so we can move them together.
+
+3
+00:00:08,800 --> 00:00:12,516
+Adding to groups dynamically is very flexible.
+
+4
+00:00:12,600 --> 00:00:14,060
+Removing the group.
+

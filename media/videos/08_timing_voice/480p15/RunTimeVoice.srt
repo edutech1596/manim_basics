@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,836
+The top circle appears fast, in half a second.
+
+2
+00:00:03,933 --> 00:00:08,081
+The middle circle appears at normal speed, one second.
+
+3
+00:00:08,133 --> 00:00:12,329
+The bottom circle appears slowly, taking three seconds.
+
+4
+00:00:12,400 --> 00:00:15,756
+Run time controls the speed of animations.
+
+5
+00:00:15,800 --> 00:00:17,740
+Removing all circles.
+

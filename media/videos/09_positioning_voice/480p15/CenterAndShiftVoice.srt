@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,732
+This text is centered at the origin.
+
+2
+00:00:02,866 --> 00:00:05,334
+Now it shifts up two units.
+
+3
+00:00:05,466 --> 00:00:07,910
+Back to center using move to.
+
+4
+00:00:08,066 --> 00:00:10,798
+And down two units using shift.
+
+5
+00:00:10,933 --> 00:00:15,369
+Move to sets absolute position, shift moves relatively.
+
+6
+00:00:15,466 --> 00:00:17,070
+Removing the text.
+

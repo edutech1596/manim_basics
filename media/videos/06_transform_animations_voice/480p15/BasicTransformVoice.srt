@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,228
+We start with a blue circle.
+
+2
+00:00:02,333 --> 00:00:05,545
+Watch as it transforms into a green square.
+
+3
+00:00:05,666 --> 00:00:08,230
+Now it becomes a red triangle.
+
+4
+00:00:08,333 --> 00:00:12,073
+Transform morphs one shape into another smoothly.
+
+5
+00:00:12,133 --> 00:00:13,617
+Removing the shape.
+

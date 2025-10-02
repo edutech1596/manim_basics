@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,861
+Watch as three circles appear: red on the left,
+
+2
+00:00:03,961 --> 00:00:07,148
+green in center, and blue on the right.
+
+3
+00:00:07,266 --> 00:00:10,454
+All three circles stay visible for a moment.
+
+4
+00:00:10,533 --> 00:00:15,809
+Now they fade out one by one: red, green, then blue.
+

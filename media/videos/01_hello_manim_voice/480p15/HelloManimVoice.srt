@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,788
+Welcome to Manim! We create a simple circle.
+
+2
+00:00:03,933 --> 00:00:06,617
+We pause for a moment to observe it.
+
+3
+00:00:06,666 --> 00:00:08,870
+Now the circle fades away.
+
+4
+00:00:09,000 --> 00:00:11,804
+This was your first Manim animation!
+

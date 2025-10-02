@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,060
+We have an orange square.
+
+2
+00:00:02,200 --> 00:00:05,052
+Watch as it rotates ninety degrees.
+
+3
+00:00:05,200 --> 00:00:06,996
+Another ninety degrees.
+
+4
+00:00:07,133 --> 00:00:10,537
+Now a full three hundred sixty degree rotation.
+
+5
+00:00:10,666 --> 00:00:14,406
+Rotation adds dynamic motion to animations.
+

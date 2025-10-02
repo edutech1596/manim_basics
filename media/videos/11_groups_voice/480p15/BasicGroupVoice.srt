@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,961
+VGroup combines multiple objects into one. Here's
+
+2
+00:00:04,061 --> 00:00:07,940
+a circle, square, and triangle grouped together.
+
+3
+00:00:08,066 --> 00:00:11,494
+Now we can move the entire group as one unit.
+
+4
+00:00:11,600 --> 00:00:15,364
+Grouping simplifies working with related objects.
+
+5
+00:00:15,400 --> 00:00:16,860
+Removing the group.
+

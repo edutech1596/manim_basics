@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,620
+We start with an original blue circle on the left.
+
+2
+00:00:03,733 --> 00:00:07,617
+Using copy, we create a duplicate and shift it.
+
+3
+00:00:07,733 --> 00:00:11,785
+We can make multiple copies with all properties preserved.
+
+4
+00:00:11,933 --> 00:00:15,121
+Copying is useful for creating patterns.
+
+5
+00:00:15,200 --> 00:00:17,116
+Removing all objects.
+

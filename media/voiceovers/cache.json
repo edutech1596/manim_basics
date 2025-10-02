@@ -1,0 +1,2216 @@
+[
+  {
+    "input_text": "Welcome to Manim! We will draw a simple circle, step by step.",
+    "input_data": {
+      "input_text": "Welcome to Manim! We will draw a simple circle, step by step.",
+      "service": "gtts"
+    },
+    "original_audio": "welcome-to-manim-we-will-draw-a-simple-circle-step-1f204d70.mp3",
+    "final_audio": "welcome-to-manim-we-will-draw-a-simple-circle-step-1f204d70.mp3"
+  },
+  {
+    "input_text": "Hold for a moment to observe the shape.",
+    "input_data": {
+      "input_text": "Hold for a moment to observe the shape.",
+      "service": "gtts"
+    },
+    "original_audio": "hold-for-a-moment-to-observe-the-shape-58e0152c.mp3",
+    "final_audio": "hold-for-a-moment-to-observe-the-shape-58e0152c.mp3"
+  },
+  {
+    "input_text": "Now, the circle fades out, and this scene concludes.",
+    "input_data": {
+      "input_text": "Now, the circle fades out, and this scene concludes.",
+      "service": "gtts"
+    },
+    "original_audio": "now-the-circle-fades-out-and-this-scene-concludes-3f8e7b9b.mp3",
+    "final_audio": "now-the-circle-fades-out-and-this-scene-concludes-3f8e7b9b.mp3"
+  },
+  {
+    "input_text": "Welcome to Manim! We create a simple circle.",
+    "input_data": {
+      "input_text": "Welcome to Manim! We create a simple circle.",
+      "service": "gtts"
+    },
+    "original_audio": "welcome-to-manim-we-create-a-simple-circle-fdc24173.mp3",
+    "final_audio": "welcome-to-manim-we-create-a-simple-circle-fdc24173.mp3"
+  },
+  {
+    "input_text": "We pause for a moment to observe it.",
+    "input_data": {
+      "input_text": "We pause for a moment to observe it.",
+      "service": "gtts"
+    },
+    "original_audio": "we-pause-for-a-moment-to-observe-it-17ee38a5.mp3",
+    "final_audio": "we-pause-for-a-moment-to-observe-it-17ee38a5.mp3"
+  },
+  {
+    "input_text": "Now the circle fades away.",
+    "input_data": {
+      "input_text": "Now the circle fades away.",
+      "service": "gtts"
+    },
+    "original_audio": "now-the-circle-fades-away-1d1c7c5d.mp3",
+    "final_audio": "now-the-circle-fades-away-1d1c7c5d.mp3"
+  },
+  {
+    "input_text": "This was your first Manim animation!",
+    "input_data": {
+      "input_text": "This was your first Manim animation!",
+      "service": "gtts"
+    },
+    "original_audio": "this-was-your-first-manim-animation-939738d3.mp3",
+    "final_audio": "this-was-your-first-manim-animation-939738d3.mp3"
+  },
+  {
+    "input_text": "Let's create a larger blue circle with a semi-transparent fill.",
+    "input_data": {
+      "input_text": "Let's create a larger blue circle with a semi-transparent fill.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-create-a-larger-blue-circle-with-a-semi-533b9bd7.mp3",
+    "final_audio": "let-s-create-a-larger-blue-circle-with-a-semi-533b9bd7.mp3"
+  },
+  {
+    "input_text": "Notice the circle has both an outline and a filled interior.",
+    "input_data": {
+      "input_text": "Notice the circle has both an outline and a filled interior.",
+      "service": "gtts"
+    },
+    "original_audio": "notice-the-circle-has-both-an-outline-and-a-filled-d46af028.mp3",
+    "final_audio": "notice-the-circle-has-both-an-outline-and-a-filled-d46af028.mp3"
+  },
+  {
+    "input_text": "Now we'll make it disappear.",
+    "input_data": {
+      "input_text": "Now we'll make it disappear.",
+      "service": "gtts"
+    },
+    "original_audio": "now-we-ll-make-it-disappear-9c1141a4.mp3",
+    "final_audio": "now-we-ll-make-it-disappear-9c1141a4.mp3"
+  },
+  {
+    "input_text": "Watch as three circles appear: red on the left, green in center, and blue on the right.",
+    "input_data": {
+      "input_text": "Watch as three circles appear: red on the left, green in center, and blue on the right.",
+      "service": "gtts"
+    },
+    "original_audio": "watch-as-three-circles-appear-red-on-the-left-5001b97c.mp3",
+    "final_audio": "watch-as-three-circles-appear-red-on-the-left-5001b97c.mp3"
+  },
+  {
+    "input_text": "All three circles stay visible for a moment.",
+    "input_data": {
+      "input_text": "All three circles stay visible for a moment.",
+      "service": "gtts"
+    },
+    "original_audio": "all-three-circles-stay-visible-for-a-moment-99227bf1.mp3",
+    "final_audio": "all-three-circles-stay-visible-for-a-moment-99227bf1.mp3"
+  },
+  {
+    "input_text": "Now they fade out one by one: red, green, then blue.",
+    "input_data": {
+      "input_text": "Now they fade out one by one: red, green, then blue.",
+      "service": "gtts"
+    },
+    "original_audio": "now-they-fade-out-one-by-one-red-green-then-blue-11bba923.mp3",
+    "final_audio": "now-they-fade-out-one-by-one-red-green-then-blue-11bba923.mp3"
+  },
+  {
+    "input_text": "Here are three basic shapes: a red circle, a blue square, and a green triangle.",
+    "input_data": {
+      "input_text": "Here are three basic shapes: a red circle, a blue square, and a green triangle.",
+      "service": "gtts"
+    },
+    "original_audio": "here-are-three-basic-shapes-a-red-circle-a-blue-24de4c87.mp3",
+    "final_audio": "here-are-three-basic-shapes-a-red-circle-a-blue-24de4c87.mp3"
+  },
+  {
+    "input_text": "Each shape has its own color and is semi-transparent.",
+    "input_data": {
+      "input_text": "Each shape has its own color and is semi-transparent.",
+      "service": "gtts"
+    },
+    "original_audio": "each-shape-has-its-own-color-and-is-semi-dc2e9e4f.mp3",
+    "final_audio": "each-shape-has-its-own-color-and-is-semi-dc2e9e4f.mp3"
+  },
+  {
+    "input_text": "Now let's remove them all.",
+    "input_data": {
+      "input_text": "Now let's remove them all.",
+      "service": "gtts"
+    },
+    "original_audio": "now-let-s-remove-them-all-f0fa3c92.mp3",
+    "final_audio": "now-let-s-remove-them-all-f0fa3c92.mp3"
+  },
+  {
+    "input_text": "Let's explore more shapes. First, a yellow rectangle at the top.",
+    "input_data": {
+      "input_text": "Let's explore more shapes. First, a yellow rectangle at the top.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-explore-more-shapes-first-a-yellow-rectangle-01503f09.mp3",
+    "final_audio": "let-s-explore-more-shapes-first-a-yellow-rectangle-01503f09.mp3"
+  },
+  {
+    "input_text": "Next, a purple ellipse in the middle.",
+    "input_data": {
+      "input_text": "Next, a purple ellipse in the middle.",
+      "service": "gtts"
+    },
+    "original_audio": "next-a-purple-ellipse-in-the-middle-45f058c2.mp3",
+    "final_audio": "next-a-purple-ellipse-in-the-middle-45f058c2.mp3"
+  },
+  {
+    "input_text": "Finally, an orange hexagon at the bottom.",
+    "input_data": {
+      "input_text": "Finally, an orange hexagon at the bottom.",
+      "service": "gtts"
+    },
+    "original_audio": "finally-an-orange-hexagon-at-the-bottom-fd005052.mp3",
+    "final_audio": "finally-an-orange-hexagon-at-the-bottom-fd005052.mp3"
+  },
+  {
+    "input_text": "These are slightly more complex shapes than basic circles and squares.",
+    "input_data": {
+      "input_text": "These are slightly more complex shapes than basic circles and squares.",
+      "service": "gtts"
+    },
+    "original_audio": "these-are-slightly-more-complex-shapes-than-basic-ac8fc3c1.mp3",
+    "final_audio": "these-are-slightly-more-complex-shapes-than-basic-ac8fc3c1.mp3"
+  },
+  {
+    "input_text": "Let's clear the screen.",
+    "input_data": {
+      "input_text": "Let's clear the screen.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-clear-the-screen-a0869d9d.mp3",
+    "final_audio": "let-s-clear-the-screen-a0869d9d.mp3"
+  },
+  {
+    "input_text": "These three circles demonstrate different stroke and fill properties.",
+    "input_data": {
+      "input_text": "These three circles demonstrate different stroke and fill properties.",
+      "service": "gtts"
+    },
+    "original_audio": "these-three-circles-demonstrate-different-stroke-2b0d7b52.mp3",
+    "final_audio": "these-three-circles-demonstrate-different-stroke-2b0d7b52.mp3"
+  },
+  {
+    "input_text": "The left has a thick blue outline. The middle has a thin outline with fill. The right has no outline, only fill.",
+    "input_data": {
+      "input_text": "The left has a thick blue outline. The middle has a thin outline with fill. The right has no outline, only fill.",
+      "service": "gtts"
+    },
+    "original_audio": "the-left-has-a-thick-blue-outline-the-middle-has-a-bf3f28e0.mp3",
+    "final_audio": "the-left-has-a-thick-blue-outline-the-middle-has-a-bf3f28e0.mp3"
+  },
+  {
+    "input_text": "Let's remove them.",
+    "input_data": {
+      "input_text": "Let's remove them.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-remove-them-4b6c43e2.mp3",
+    "final_audio": "let-s-remove-them-4b6c43e2.mp3"
+  },
+  {
+    "input_text": "First, a simple white line.",
+    "input_data": {
+      "input_text": "First, a simple white line.",
+      "service": "gtts"
+    },
+    "original_audio": "first-a-simple-white-line-1b40cd3e.mp3",
+    "final_audio": "first-a-simple-white-line-1b40cd3e.mp3"
+  },
+  {
+    "input_text": "Next, a yellow arrow pointing to the right.",
+    "input_data": {
+      "input_text": "Next, a yellow arrow pointing to the right.",
+      "service": "gtts"
+    },
+    "original_audio": "next-a-yellow-arrow-pointing-to-the-right-cb8d702c.mp3",
+    "final_audio": "next-a-yellow-arrow-pointing-to-the-right-cb8d702c.mp3"
+  },
+  {
+    "input_text": "Finally, a green double-headed arrow.",
+    "input_data": {
+      "input_text": "Finally, a green double-headed arrow.",
+      "service": "gtts"
+    },
+    "original_audio": "finally-a-green-double-headed-arrow-4c92ce7e.mp3",
+    "final_audio": "finally-a-green-double-headed-arrow-4c92ce7e.mp3"
+  },
+  {
+    "input_text": "Lines and arrows are useful for connecting objects and showing directions.",
+    "input_data": {
+      "input_text": "Lines and arrows are useful for connecting objects and showing directions.",
+      "service": "gtts"
+    },
+    "original_audio": "lines-and-arrows-are-useful-for-connecting-objects-4df143cf.mp3",
+    "final_audio": "lines-and-arrows-are-useful-for-connecting-objects-4df143cf.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "We can write text that appears letter by letter.",
+    "input_data": {
+      "input_text": "We can write text that appears letter by letter.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-write-text-that-appears-letter-by-letter-99aeab17.mp3",
+    "final_audio": "we-can-write-text-that-appears-letter-by-letter-99aeab17.mp3"
+  },
+  {
+    "input_text": "This is simple text rendering in Manim.",
+    "input_data": {
+      "input_text": "This is simple text rendering in Manim.",
+      "service": "gtts"
+    },
+    "original_audio": "this-is-simple-text-rendering-in-manim-be760dde.mp3",
+    "final_audio": "this-is-simple-text-rendering-in-manim-be760dde.mp3"
+  },
+  {
+    "input_text": "Now we'll fade it out.",
+    "input_data": {
+      "input_text": "Now we'll fade it out.",
+      "service": "gtts"
+    },
+    "original_audio": "now-we-ll-fade-it-out-177f72bc.mp3",
+    "final_audio": "now-we-ll-fade-it-out-177f72bc.mp3"
+  },
+  {
+    "input_text": "Text can be colored. This text is blue.",
+    "input_data": {
+      "input_text": "Text can be colored. This text is blue.",
+      "service": "gtts"
+    },
+    "original_audio": "text-can-be-colored-this-text-is-blue-a87b99b8.mp3",
+    "final_audio": "text-can-be-colored-this-text-is-blue-a87b99b8.mp3"
+  },
+  {
+    "input_text": "Text can be large, like this.",
+    "input_data": {
+      "input_text": "Text can be large, like this.",
+      "service": "gtts"
+    },
+    "original_audio": "text-can-be-large-like-this-f7d7f855.mp3",
+    "final_audio": "text-can-be-large-like-this-f7d7f855.mp3"
+  },
+  {
+    "input_text": "Or text can be small, like this.",
+    "input_data": {
+      "input_text": "Or text can be small, like this.",
+      "service": "gtts"
+    },
+    "original_audio": "or-text-can-be-small-like-this-7a60f2d7.mp3",
+    "final_audio": "or-text-can-be-small-like-this-7a60f2d7.mp3"
+  },
+  {
+    "input_text": "Size and color give us control over text appearance.",
+    "input_data": {
+      "input_text": "Size and color give us control over text appearance.",
+      "service": "gtts"
+    },
+    "original_audio": "size-and-color-give-us-control-over-text-9ddfe563.mp3",
+    "final_audio": "size-and-color-give-us-control-over-text-9ddfe563.mp3"
+  },
+  {
+    "input_text": "Removing all text.",
+    "input_data": {
+      "input_text": "Removing all text.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-text-b53cc71a.mp3",
+    "final_audio": "removing-all-text-b53cc71a.mp3"
+  },
+  {
+    "input_text": "We can position text at the top edge of the screen.",
+    "input_data": {
+      "input_text": "We can position text at the top edge of the screen.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-position-text-at-the-top-edge-of-the-screen-de24c9d3.mp3",
+    "final_audio": "we-can-position-text-at-the-top-edge-of-the-screen-de24c9d3.mp3"
+  },
+  {
+    "input_text": "Or at the center.",
+    "input_data": {
+      "input_text": "Or at the center.",
+      "service": "gtts"
+    },
+    "original_audio": "or-at-the-center-bcc8cfb8.mp3",
+    "final_audio": "or-at-the-center-bcc8cfb8.mp3"
+  },
+  {
+    "input_text": "Or at the bottom edge.",
+    "input_data": {
+      "input_text": "Or at the bottom edge.",
+      "service": "gtts"
+    },
+    "original_audio": "or-at-the-bottom-edge-c3cfc2a0.mp3",
+    "final_audio": "or-at-the-bottom-edge-c3cfc2a0.mp3"
+  },
+  {
+    "input_text": "Positioning text is essential for creating clear presentations.",
+    "input_data": {
+      "input_text": "Positioning text is essential for creating clear presentations.",
+      "service": "gtts"
+    },
+    "original_audio": "positioning-text-is-essential-for-creating-clear-20154156.mp3",
+    "final_audio": "positioning-text-is-essential-for-creating-clear-20154156.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "Let's create a blue circle.",
+    "input_data": {
+      "input_text": "Let's create a blue circle.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-create-a-blue-circle-d3dff634.mp3",
+    "final_audio": "let-s-create-a-blue-circle-d3dff634.mp3"
+  },
+  {
+    "input_text": "We can add a label that appears in the center.",
+    "input_data": {
+      "input_text": "We can add a label that appears in the center.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-add-a-label-that-appears-in-the-center-a6db944e.mp3",
+    "final_audio": "we-can-add-a-label-that-appears-in-the-center-a6db944e.mp3"
+  },
+  {
+    "input_text": "Now we'll move the label above the circle for better clarity.",
+    "input_data": {
+      "input_text": "Now we'll move the label above the circle for better clarity.",
+      "service": "gtts"
+    },
+    "original_audio": "now-we-ll-move-the-label-above-the-circle-for-11053173.mp3",
+    "final_audio": "now-we-ll-move-the-label-above-the-circle-for-11053173.mp3"
+  },
+  {
+    "input_text": "Combining shapes with text labels makes diagrams more informative.",
+    "input_data": {
+      "input_text": "Combining shapes with text labels makes diagrams more informative.",
+      "service": "gtts"
+    },
+    "original_audio": "combining-shapes-with-text-labels-makes-diagrams-572462d2.mp3",
+    "final_audio": "combining-shapes-with-text-labels-makes-diagrams-572462d2.mp3"
+  },
+  {
+    "input_text": "Removing everything.",
+    "input_data": {
+      "input_text": "Removing everything.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-everything-5a90f055.mp3",
+    "final_audio": "removing-everything-5a90f055.mp3"
+  },
+  {
+    "input_text": "Manim has built-in colors: red, orange, yellow, green, blue, and purple.",
+    "input_data": {
+      "input_text": "Manim has built-in colors: red, orange, yellow, green, blue, and purple.",
+      "service": "gtts"
+    },
+    "original_audio": "manim-has-built-in-colors-red-orange-yellow-green-b0362a4f.mp3",
+    "final_audio": "manim-has-built-in-colors-red-orange-yellow-green-b0362a4f.mp3"
+  },
+  {
+    "input_text": "These colors can be used for any shape or object.",
+    "input_data": {
+      "input_text": "These colors can be used for any shape or object.",
+      "service": "gtts"
+    },
+    "original_audio": "these-colors-can-be-used-for-any-shape-or-object-3eafa22b.mp3",
+    "final_audio": "these-colors-can-be-used-for-any-shape-or-object-3eafa22b.mp3"
+  },
+  {
+    "input_text": "Removing the color palette.",
+    "input_data": {
+      "input_text": "Removing the color palette.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-color-palette-388b9929.mp3",
+    "final_audio": "removing-the-color-palette-388b9929.mp3"
+  },
+  {
+    "input_text": "Manim provides five shades for each color, from lightest to darkest.",
+    "input_data": {
+      "input_text": "Manim provides five shades for each color, from lightest to darkest.",
+      "service": "gtts"
+    },
+    "original_audio": "manim-provides-five-shades-for-each-color-from-906096c3.mp3",
+    "final_audio": "manim-provides-five-shades-for-each-color-from-906096c3.mp3"
+  },
+  {
+    "input_text": "Here are five shades of red.",
+    "input_data": {
+      "input_text": "Here are five shades of red.",
+      "service": "gtts"
+    },
+    "original_audio": "here-are-five-shades-of-red-e6ee4903.mp3",
+    "final_audio": "here-are-five-shades-of-red-e6ee4903.mp3"
+  },
+  {
+    "input_text": "Now let's see blue shades.",
+    "input_data": {
+      "input_text": "Now let's see blue shades.",
+      "service": "gtts"
+    },
+    "original_audio": "now-let-s-see-blue-shades-8918712e.mp3",
+    "final_audio": "now-let-s-see-blue-shades-8918712e.mp3"
+  },
+  {
+    "input_text": "Five shades of blue, from light to dark.",
+    "input_data": {
+      "input_text": "Five shades of blue, from light to dark.",
+      "service": "gtts"
+    },
+    "original_audio": "five-shades-of-blue-from-light-to-dark-fddc31e4.mp3",
+    "final_audio": "five-shades-of-blue-from-light-to-dark-fddc31e4.mp3"
+  },
+  {
+    "input_text": "Shades give us fine control over colors.",
+    "input_data": {
+      "input_text": "Shades give us fine control over colors.",
+      "service": "gtts"
+    },
+    "original_audio": "shades-give-us-fine-control-over-colors-7b8fd7c0.mp3",
+    "final_audio": "shades-give-us-fine-control-over-colors-7b8fd7c0.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "We can create custom colors using hex codes.",
+    "input_data": {
+      "input_text": "We can create custom colors using hex codes.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-create-custom-colors-using-hex-codes-21be4c9b.mp3",
+    "final_audio": "we-can-create-custom-colors-using-hex-codes-21be4c9b.mp3"
+  },
+  {
+    "input_text": "These are custom coral, turquoise, and mint colors.",
+    "input_data": {
+      "input_text": "These are custom coral, turquoise, and mint colors.",
+      "service": "gtts"
+    },
+    "original_audio": "these-are-custom-coral-turquoise-and-mint-colors-92c13344.mp3",
+    "final_audio": "these-are-custom-coral-turquoise-and-mint-colors-92c13344.mp3"
+  },
+  {
+    "input_text": "Custom colors let us match any color scheme.",
+    "input_data": {
+      "input_text": "Custom colors let us match any color scheme.",
+      "service": "gtts"
+    },
+    "original_audio": "custom-colors-let-us-match-any-color-scheme-841b84a7.mp3",
+    "final_audio": "custom-colors-let-us-match-any-color-scheme-841b84a7.mp3"
+  },
+  {
+    "input_text": "We can create smooth color gradients by blending multiple colors.",
+    "input_data": {
+      "input_text": "We can create smooth color gradients by blending multiple colors.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-create-smooth-color-gradients-by-blending-eda22c24.mp3",
+    "final_audio": "we-can-create-smooth-color-gradients-by-blending-eda22c24.mp3"
+  },
+  {
+    "input_text": "This gradient transitions from red to yellow to green.",
+    "input_data": {
+      "input_text": "This gradient transitions from red to yellow to green.",
+      "service": "gtts"
+    },
+    "original_audio": "this-gradient-transitions-from-red-to-yellow-to-fa1203a4.mp3",
+    "final_audio": "this-gradient-transitions-from-red-to-yellow-to-fa1203a4.mp3"
+  },
+  {
+    "input_text": "Gradients add visual appeal to shapes.",
+    "input_data": {
+      "input_text": "Gradients add visual appeal to shapes.",
+      "service": "gtts"
+    },
+    "original_audio": "gradients-add-visual-appeal-to-shapes-d8e63df8.mp3",
+    "final_audio": "gradients-add-visual-appeal-to-shapes-d8e63df8.mp3"
+  },
+  {
+    "input_text": "The Create animation draws the object's border from start to finish.",
+    "input_data": {
+      "input_text": "The Create animation draws the object's border from start to finish.",
+      "service": "gtts"
+    },
+    "original_audio": "the-create-animation-draws-the-object-s-border-349cb34d.mp3",
+    "final_audio": "the-create-animation-draws-the-object-s-border-349cb34d.mp3"
+  },
+  {
+    "input_text": "FadeIn gradually increases opacity, making the object appear.",
+    "input_data": {
+      "input_text": "FadeIn gradually increases opacity, making the object appear.",
+      "service": "gtts"
+    },
+    "original_audio": "fadein-gradually-increases-opacity-making-the-1d4a2635.mp3",
+    "final_audio": "fadein-gradually-increases-opacity-making-the-1d4a2635.mp3"
+  },
+  {
+    "input_text": "GrowFromCenter makes the object expand from a tiny point.",
+    "input_data": {
+      "input_text": "GrowFromCenter makes the object expand from a tiny point.",
+      "service": "gtts"
+    },
+    "original_audio": "growfromcenter-makes-the-object-expand-from-a-tiny-337fd969.mp3",
+    "final_audio": "growfromcenter-makes-the-object-expand-from-a-tiny-337fd969.mp3"
+  },
+  {
+    "input_text": "Each method creates a different visual effect.",
+    "input_data": {
+      "input_text": "Each method creates a different visual effect.",
+      "service": "gtts"
+    },
+    "original_audio": "each-method-creates-a-different-visual-effect-b31d2707.mp3",
+    "final_audio": "each-method-creates-a-different-visual-effect-b31d2707.mp3"
+  },
+  {
+    "input_text": "Removing all objects.",
+    "input_data": {
+      "input_text": "Removing all objects.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-objects-59489833.mp3",
+    "final_audio": "removing-all-objects-59489833.mp3"
+  },
+  {
+    "input_text": "DrawBorderThenFill first draws the outline, then fills it in.",
+    "input_data": {
+      "input_text": "DrawBorderThenFill first draws the outline, then fills it in.",
+      "service": "gtts"
+    },
+    "original_audio": "drawborderthenfill-first-draws-the-outline-then-c63c40be.mp3",
+    "final_audio": "drawborderthenfill-first-draws-the-outline-then-c63c40be.mp3"
+  },
+  {
+    "input_text": "SpinInFromNothing spins and grows the object simultaneously.",
+    "input_data": {
+      "input_text": "SpinInFromNothing spins and grows the object simultaneously.",
+      "service": "gtts"
+    },
+    "original_audio": "spininfromnothing-spins-and-grows-the-object-cbb0554e.mp3",
+    "final_audio": "spininfromnothing-spins-and-grows-the-object-cbb0554e.mp3"
+  },
+  {
+    "input_text": "GrowFromEdge expands the object from a specific edge.",
+    "input_data": {
+      "input_text": "GrowFromEdge expands the object from a specific edge.",
+      "service": "gtts"
+    },
+    "original_audio": "growfromedge-expands-the-object-from-a-specific-6450761c.mp3",
+    "final_audio": "growfromedge-expands-the-object-from-a-specific-6450761c.mp3"
+  },
+  {
+    "input_text": "These animations add variety to your presentations.",
+    "input_data": {
+      "input_text": "These animations add variety to your presentations.",
+      "service": "gtts"
+    },
+    "original_audio": "these-animations-add-variety-to-your-presentations-d6ddd616.mp3",
+    "final_audio": "these-animations-add-variety-to-your-presentations-d6ddd616.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "The Write animation writes text letter by letter, like typing.",
+    "input_data": {
+      "input_text": "The Write animation writes text letter by letter, like typing.",
+      "service": "gtts"
+    },
+    "original_audio": "the-write-animation-writes-text-letter-by-letter-8b427ddf.mp3",
+    "final_audio": "the-write-animation-writes-text-letter-by-letter-8b427ddf.mp3"
+  },
+  {
+    "input_text": "It creates a natural writing effect.",
+    "input_data": {
+      "input_text": "It creates a natural writing effect.",
+      "service": "gtts"
+    },
+    "original_audio": "it-creates-a-natural-writing-effect-f9244b2c.mp3",
+    "final_audio": "it-creates-a-natural-writing-effect-f9244b2c.mp3"
+  },
+  {
+    "input_text": "Removing the text.",
+    "input_data": {
+      "input_text": "Removing the text.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-text-8f0d7317.mp3",
+    "final_audio": "removing-the-text-8f0d7317.mp3"
+  },
+  {
+    "input_text": "Write also works on shapes, tracing their outline.",
+    "input_data": {
+      "input_text": "Write also works on shapes, tracing their outline.",
+      "service": "gtts"
+    },
+    "original_audio": "write-also-works-on-shapes-tracing-their-outline-6b529bd5.mp3",
+    "final_audio": "write-also-works-on-shapes-tracing-their-outline-6b529bd5.mp3"
+  },
+  {
+    "input_text": "It's a versatile animation.",
+    "input_data": {
+      "input_text": "It's a versatile animation.",
+      "service": "gtts"
+    },
+    "original_audio": "it-s-a-versatile-animation-428f419e.mp3",
+    "final_audio": "it-s-a-versatile-animation-428f419e.mp3"
+  },
+  {
+    "input_text": "Removing the circle.",
+    "input_data": {
+      "input_text": "Removing the circle.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-circle-dd1bcb3b.mp3",
+    "final_audio": "removing-the-circle-dd1bcb3b.mp3"
+  },
+  {
+    "input_text": "Let's create three shapes to demonstrate removal animations.",
+    "input_data": {
+      "input_text": "Let's create three shapes to demonstrate removal animations.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-create-three-shapes-to-demonstrate-removal-662db1f2.mp3",
+    "final_audio": "let-s-create-three-shapes-to-demonstrate-removal-662db1f2.mp3"
+  },
+  {
+    "input_text": "Uncreate is the reverse of Create, it un-draws the object.",
+    "input_data": {
+      "input_text": "Uncreate is the reverse of Create, it un-draws the object.",
+      "service": "gtts"
+    },
+    "original_audio": "uncreate-is-the-reverse-of-create-it-un-draws-the-c9209077.mp3",
+    "final_audio": "uncreate-is-the-reverse-of-create-it-un-draws-the-c9209077.mp3"
+  },
+  {
+    "input_text": "FadeOut gradually makes the object transparent.",
+    "input_data": {
+      "input_text": "FadeOut gradually makes the object transparent.",
+      "service": "gtts"
+    },
+    "original_audio": "fadeout-gradually-makes-the-object-transparent-dd3d779e.mp3",
+    "final_audio": "fadeout-gradually-makes-the-object-transparent-dd3d779e.mp3"
+  },
+  {
+    "input_text": "ShrinkToCenter shrinks the object to a point, opposite of GrowFromCenter.",
+    "input_data": {
+      "input_text": "ShrinkToCenter shrinks the object to a point, opposite of GrowFromCenter.",
+      "service": "gtts"
+    },
+    "original_audio": "shrinktocenter-shrinks-the-object-to-a-point-e1cce7ec.mp3",
+    "final_audio": "shrinktocenter-shrinks-the-object-to-a-point-e1cce7ec.mp3"
+  },
+  {
+    "input_text": "We start with a blue circle.",
+    "input_data": {
+      "input_text": "We start with a blue circle.",
+      "service": "gtts"
+    },
+    "original_audio": "we-start-with-a-blue-circle-b8a95e9e.mp3",
+    "final_audio": "we-start-with-a-blue-circle-b8a95e9e.mp3"
+  },
+  {
+    "input_text": "Watch as it transforms into a green square.",
+    "input_data": {
+      "input_text": "Watch as it transforms into a green square.",
+      "service": "gtts"
+    },
+    "original_audio": "watch-as-it-transforms-into-a-green-square-22cf61b9.mp3",
+    "final_audio": "watch-as-it-transforms-into-a-green-square-22cf61b9.mp3"
+  },
+  {
+    "input_text": "Now it becomes a red triangle.",
+    "input_data": {
+      "input_text": "Now it becomes a red triangle.",
+      "service": "gtts"
+    },
+    "original_audio": "now-it-becomes-a-red-triangle-ce9d54f1.mp3",
+    "final_audio": "now-it-becomes-a-red-triangle-ce9d54f1.mp3"
+  },
+  {
+    "input_text": "Transform morphs one shape into another smoothly.",
+    "input_data": {
+      "input_text": "Transform morphs one shape into another smoothly.",
+      "service": "gtts"
+    },
+    "original_audio": "transform-morphs-one-shape-into-another-smoothly-1f1fb2be.mp3",
+    "final_audio": "transform-morphs-one-shape-into-another-smoothly-1f1fb2be.mp3"
+  },
+  {
+    "input_text": "Removing the shape.",
+    "input_data": {
+      "input_text": "Removing the shape.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-shape-112d92ca.mp3",
+    "final_audio": "removing-the-shape-112d92ca.mp3"
+  },
+  {
+    "input_text": "We begin with a blue circle.",
+    "input_data": {
+      "input_text": "We begin with a blue circle.",
+      "service": "gtts"
+    },
+    "original_audio": "we-begin-with-a-blue-circle-bfd55dc1.mp3",
+    "final_audio": "we-begin-with-a-blue-circle-bfd55dc1.mp3"
+  },
+  {
+    "input_text": "ReplacementTransform actually swaps objects. The circle is replaced by a square.",
+    "input_data": {
+      "input_text": "ReplacementTransform actually swaps objects. The circle is replaced by a square.",
+      "service": "gtts"
+    },
+    "original_audio": "replacementtransform-actually-swaps-objects-the-a65904e2.mp3",
+    "final_audio": "replacementtransform-actually-swaps-objects-the-a65904e2.mp3"
+  },
+  {
+    "input_text": "Now the square is replaced by a triangle.",
+    "input_data": {
+      "input_text": "Now the square is replaced by a triangle.",
+      "service": "gtts"
+    },
+    "original_audio": "now-the-square-is-replaced-by-a-triangle-5c7c14af.mp3",
+    "final_audio": "now-the-square-is-replaced-by-a-triangle-5c7c14af.mp3"
+  },
+  {
+    "input_text": "Unlike Transform, each object is truly replaced.",
+    "input_data": {
+      "input_text": "Unlike Transform, each object is truly replaced.",
+      "service": "gtts"
+    },
+    "original_audio": "unlike-transform-each-object-is-truly-replaced-a8e5d00a.mp3",
+    "final_audio": "unlike-transform-each-object-is-truly-replaced-a8e5d00a.mp3"
+  },
+  {
+    "input_text": "Removing the triangle.",
+    "input_data": {
+      "input_text": "Removing the triangle.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-triangle-b89e115e.mp3",
+    "final_audio": "removing-the-triangle-b89e115e.mp3"
+  },
+  {
+    "input_text": "We write the word Hello.",
+    "input_data": {
+      "input_text": "We write the word Hello.",
+      "service": "gtts"
+    },
+    "original_audio": "we-write-the-word-hello-8f3947c6.mp3",
+    "final_audio": "we-write-the-word-hello-8f3947c6.mp3"
+  },
+  {
+    "input_text": "Now it transforms into World.",
+    "input_data": {
+      "input_text": "Now it transforms into World.",
+      "service": "gtts"
+    },
+    "original_audio": "now-it-transforms-into-world-d1825827.mp3",
+    "final_audio": "now-it-transforms-into-world-d1825827.mp3"
+  },
+  {
+    "input_text": "And finally it becomes a longer message: Manim is awesome!",
+    "input_data": {
+      "input_text": "And finally it becomes a longer message: Manim is awesome!",
+      "service": "gtts"
+    },
+    "original_audio": "and-finally-it-becomes-a-longer-message-manim-is-d861f406.mp3",
+    "final_audio": "and-finally-it-becomes-a-longer-message-manim-is-d861f406.mp3"
+  },
+  {
+    "input_text": "Text transformations are great for storytelling.",
+    "input_data": {
+      "input_text": "Text transformations are great for storytelling.",
+      "service": "gtts"
+    },
+    "original_audio": "text-transformations-are-great-for-storytelling-77d6c8aa.mp3",
+    "final_audio": "text-transformations-are-great-for-storytelling-77d6c8aa.mp3"
+  },
+  {
+    "input_text": "Clearing the text.",
+    "input_data": {
+      "input_text": "Clearing the text.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-text-8ad79a0d.mp3",
+    "final_audio": "clearing-the-text-8ad79a0d.mp3"
+  },
+  {
+    "input_text": "We have a group with a circle and a square.",
+    "input_data": {
+      "input_text": "We have a group with a circle and a square.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-a-group-with-a-circle-and-a-square-6b267039.mp3",
+    "final_audio": "we-have-a-group-with-a-circle-and-a-square-6b267039.mp3"
+  },
+  {
+    "input_text": "TransformMatchingShapes intelligently morphs between groups, matching corresponding objects.",
+    "input_data": {
+      "input_text": "TransformMatchingShapes intelligently morphs between groups, matching corresponding objects.",
+      "service": "gtts"
+    },
+    "original_audio": "transformmatchingshapes-intelligently-morphs-8e1ba966.mp3",
+    "final_audio": "transformmatchingshapes-intelligently-morphs-8e1ba966.mp3"
+  },
+  {
+    "input_text": "This creates smooth transitions between complex arrangements.",
+    "input_data": {
+      "input_text": "This creates smooth transitions between complex arrangements.",
+      "service": "gtts"
+    },
+    "original_audio": "this-creates-smooth-transitions-between-complex-72b7d6ed.mp3",
+    "final_audio": "this-creates-smooth-transitions-between-complex-72b7d6ed.mp3"
+  },
+  {
+    "input_text": "Removing the shapes.",
+    "input_data": {
+      "input_text": "Removing the shapes.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-shapes-f308249b.mp3",
+    "final_audio": "removing-the-shapes-f308249b.mp3"
+  },
+  {
+    "input_text": "We create a blue circle at the center.",
+    "input_data": {
+      "input_text": "We create a blue circle at the center.",
+      "service": "gtts"
+    },
+    "original_audio": "we-create-a-blue-circle-at-the-center-4198aa32.mp3",
+    "final_audio": "we-create-a-blue-circle-at-the-center-4198aa32.mp3"
+  },
+  {
+    "input_text": "Now it shifts two units to the right.",
+    "input_data": {
+      "input_text": "Now it shifts two units to the right.",
+      "service": "gtts"
+    },
+    "original_audio": "now-it-shifts-two-units-to-the-right-75da3fe7.mp3",
+    "final_audio": "now-it-shifts-two-units-to-the-right-75da3fe7.mp3"
+  },
+  {
+    "input_text": "Then it moves up two units.",
+    "input_data": {
+      "input_text": "Then it moves up two units.",
+      "service": "gtts"
+    },
+    "original_audio": "then-it-moves-up-two-units-5f7d2442.mp3",
+    "final_audio": "then-it-moves-up-two-units-5f7d2442.mp3"
+  },
+  {
+    "input_text": "Now it shifts four units to the left.",
+    "input_data": {
+      "input_text": "Now it shifts four units to the left.",
+      "service": "gtts"
+    },
+    "original_audio": "now-it-shifts-four-units-to-the-left-b72ff28e.mp3",
+    "final_audio": "now-it-shifts-four-units-to-the-left-b72ff28e.mp3"
+  },
+  {
+    "input_text": "Finally, it moves down two units.",
+    "input_data": {
+      "input_text": "Finally, it moves down two units.",
+      "service": "gtts"
+    },
+    "original_audio": "finally-it-moves-down-two-units-0e49e9ce.mp3",
+    "final_audio": "finally-it-moves-down-two-units-0e49e9ce.mp3"
+  },
+  {
+    "input_text": "Shift moves objects by a relative amount from their current position.",
+    "input_data": {
+      "input_text": "Shift moves objects by a relative amount from their current position.",
+      "service": "gtts"
+    },
+    "original_audio": "shift-moves-objects-by-a-relative-amount-from-45536734.mp3",
+    "final_audio": "shift-moves-objects-by-a-relative-amount-from-45536734.mp3"
+  },
+  {
+    "input_text": "We have a green square at the center.",
+    "input_data": {
+      "input_text": "We have a green square at the center.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-a-green-square-at-the-center-b0bc89c0.mp3",
+    "final_audio": "we-have-a-green-square-at-the-center-b0bc89c0.mp3"
+  },
+  {
+    "input_text": "MoveT o places it at an absolute position, like the top-left corner.",
+    "input_data": {
+      "input_text": "MoveT o places it at an absolute position, like the top-left corner.",
+      "service": "gtts"
+    },
+    "original_audio": "movet-o-places-it-at-an-absolute-position-like-the-91c3dddd.mp3",
+    "final_audio": "movet-o-places-it-at-an-absolute-position-like-the-91c3dddd.mp3"
+  },
+  {
+    "input_text": "Now to the bottom-right corner.",
+    "input_data": {
+      "input_text": "Now to the bottom-right corner.",
+      "service": "gtts"
+    },
+    "original_audio": "now-to-the-bottom-right-corner-2190913a.mp3",
+    "final_audio": "now-to-the-bottom-right-corner-2190913a.mp3"
+  },
+  {
+    "input_text": "And back to the exact center.",
+    "input_data": {
+      "input_text": "And back to the exact center.",
+      "service": "gtts"
+    },
+    "original_audio": "and-back-to-the-exact-center-a7455b0d.mp3",
+    "final_audio": "and-back-to-the-exact-center-a7455b0d.mp3"
+  },
+  {
+    "input_text": "Move to is useful for precise positioning.",
+    "input_data": {
+      "input_text": "Move to is useful for precise positioning.",
+      "service": "gtts"
+    },
+    "original_audio": "move-to-is-useful-for-precise-positioning-48f11e00.mp3",
+    "final_audio": "move-to-is-useful-for-precise-positioning-48f11e00.mp3"
+  },
+  {
+    "input_text": "We create a red circle.",
+    "input_data": {
+      "input_text": "We create a red circle.",
+      "service": "gtts"
+    },
+    "original_audio": "we-create-a-red-circle-8a8876fb.mp3",
+    "final_audio": "we-create-a-red-circle-8a8876fb.mp3"
+  },
+  {
+    "input_text": "To edge moves it all the way to the top edge.",
+    "input_data": {
+      "input_text": "To edge moves it all the way to the top edge.",
+      "service": "gtts"
+    },
+    "original_audio": "to-edge-moves-it-all-the-way-to-the-top-edge-94f4dd33.mp3",
+    "final_audio": "to-edge-moves-it-all-the-way-to-the-top-edge-94f4dd33.mp3"
+  },
+  {
+    "input_text": "Then to the right edge.",
+    "input_data": {
+      "input_text": "Then to the right edge.",
+      "service": "gtts"
+    },
+    "original_audio": "then-to-the-right-edge-e81223b3.mp3",
+    "final_audio": "then-to-the-right-edge-e81223b3.mp3"
+  },
+  {
+    "input_text": "To the bottom edge.",
+    "input_data": {
+      "input_text": "To the bottom edge.",
+      "service": "gtts"
+    },
+    "original_audio": "to-the-bottom-edge-e05c5ded.mp3",
+    "final_audio": "to-the-bottom-edge-e05c5ded.mp3"
+  },
+  {
+    "input_text": "And to the left edge.",
+    "input_data": {
+      "input_text": "And to the left edge.",
+      "service": "gtts"
+    },
+    "original_audio": "and-to-the-left-edge-b75be80d.mp3",
+    "final_audio": "and-to-the-left-edge-b75be80d.mp3"
+  },
+  {
+    "input_text": "To edge is perfect for placing objects at screen boundaries.",
+    "input_data": {
+      "input_text": "To edge is perfect for placing objects at screen boundaries.",
+      "service": "gtts"
+    },
+    "original_audio": "to-edge-is-perfect-for-placing-objects-at-screen-b502e4c7.mp3",
+    "final_audio": "to-edge-is-perfect-for-placing-objects-at-screen-b502e4c7.mp3"
+  },
+  {
+    "input_text": "We have a yellow square in the center.",
+    "input_data": {
+      "input_text": "We have a yellow square in the center.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-a-yellow-square-in-the-center-6ca743e1.mp3",
+    "final_audio": "we-have-a-yellow-square-in-the-center-6ca743e1.mp3"
+  },
+  {
+    "input_text": "Now four circles appear, positioned next to each side of the square.",
+    "input_data": {
+      "input_text": "Now four circles appear, positioned next to each side of the square.",
+      "service": "gtts"
+    },
+    "original_audio": "now-four-circles-appear-positioned-next-to-each-083e968d.mp3",
+    "final_audio": "now-four-circles-appear-positioned-next-to-each-083e968d.mp3"
+  },
+  {
+    "input_text": "Next to positions objects relative to other objects.",
+    "input_data": {
+      "input_text": "Next to positions objects relative to other objects.",
+      "service": "gtts"
+    },
+    "original_audio": "next-to-positions-objects-relative-to-other-63273e95.mp3",
+    "final_audio": "next-to-positions-objects-relative-to-other-63273e95.mp3"
+  },
+  {
+    "input_text": "Clearing everything.",
+    "input_data": {
+      "input_text": "Clearing everything.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-everything-777945f3.mp3",
+    "final_audio": "clearing-everything-777945f3.mp3"
+  },
+  {
+    "input_text": "We have an orange square.",
+    "input_data": {
+      "input_text": "We have an orange square.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-an-orange-square-334b8286.mp3",
+    "final_audio": "we-have-an-orange-square-334b8286.mp3"
+  },
+  {
+    "input_text": "Watch as it rotates ninety degrees.",
+    "input_data": {
+      "input_text": "Watch as it rotates ninety degrees.",
+      "service": "gtts"
+    },
+    "original_audio": "watch-as-it-rotates-ninety-degrees-41e69938.mp3",
+    "final_audio": "watch-as-it-rotates-ninety-degrees-41e69938.mp3"
+  },
+  {
+    "input_text": "Another ninety degrees.",
+    "input_data": {
+      "input_text": "Another ninety degrees.",
+      "service": "gtts"
+    },
+    "original_audio": "another-ninety-degrees-4433455c.mp3",
+    "final_audio": "another-ninety-degrees-4433455c.mp3"
+  },
+  {
+    "input_text": "Now a full three hundred sixty degree rotation.",
+    "input_data": {
+      "input_text": "Now a full three hundred sixty degree rotation.",
+      "service": "gtts"
+    },
+    "original_audio": "now-a-full-three-hundred-sixty-degree-rotation-6d677538.mp3",
+    "final_audio": "now-a-full-three-hundred-sixty-degree-rotation-6d677538.mp3"
+  },
+  {
+    "input_text": "Rotation adds dynamic motion to animations.",
+    "input_data": {
+      "input_text": "Rotation adds dynamic motion to animations.",
+      "service": "gtts"
+    },
+    "original_audio": "rotation-adds-dynamic-motion-to-animations-303d4b01.mp3",
+    "final_audio": "rotation-adds-dynamic-motion-to-animations-303d4b01.mp3"
+  },
+  {
+    "input_text": "The top circle appears fast, in half a second.",
+    "input_data": {
+      "input_text": "The top circle appears fast, in half a second.",
+      "service": "gtts"
+    },
+    "original_audio": "the-top-circle-appears-fast-in-half-a-second-7c71c874.mp3",
+    "final_audio": "the-top-circle-appears-fast-in-half-a-second-7c71c874.mp3"
+  },
+  {
+    "input_text": "The middle circle appears at normal speed, one second.",
+    "input_data": {
+      "input_text": "The middle circle appears at normal speed, one second.",
+      "service": "gtts"
+    },
+    "original_audio": "the-middle-circle-appears-at-normal-speed-one-b9f18f1c.mp3",
+    "final_audio": "the-middle-circle-appears-at-normal-speed-one-b9f18f1c.mp3"
+  },
+  {
+    "input_text": "The bottom circle appears slowly, taking three seconds.",
+    "input_data": {
+      "input_text": "The bottom circle appears slowly, taking three seconds.",
+      "service": "gtts"
+    },
+    "original_audio": "the-bottom-circle-appears-slowly-taking-three-6fd6025d.mp3",
+    "final_audio": "the-bottom-circle-appears-slowly-taking-three-6fd6025d.mp3"
+  },
+  {
+    "input_text": "Run time controls the speed of animations.",
+    "input_data": {
+      "input_text": "Run time controls the speed of animations.",
+      "service": "gtts"
+    },
+    "original_audio": "run-time-controls-the-speed-of-animations-5fc189ac.mp3",
+    "final_audio": "run-time-controls-the-speed-of-animations-5fc189ac.mp3"
+  },
+  {
+    "input_text": "Removing all circles.",
+    "input_data": {
+      "input_text": "Removing all circles.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-circles-eb7a4fc8.mp3",
+    "final_audio": "removing-all-circles-eb7a4fc8.mp3"
+  },
+  {
+    "input_text": "We create a blue circle and pause to view it.",
+    "input_data": {
+      "input_text": "We create a blue circle and pause to view it.",
+      "service": "gtts"
+    },
+    "original_audio": "we-create-a-blue-circle-and-pause-to-view-it-0c793861.mp3",
+    "final_audio": "we-create-a-blue-circle-and-pause-to-view-it-0c793861.mp3"
+  },
+  {
+    "input_text": "Now it changes to red.",
+    "input_data": {
+      "input_text": "Now it changes to red.",
+      "service": "gtts"
+    },
+    "original_audio": "now-it-changes-to-red-7f3c1ec2.mp3",
+    "final_audio": "now-it-changes-to-red-7f3c1ec2.mp3"
+  },
+  {
+    "input_text": "Then it moves to the right.",
+    "input_data": {
+      "input_text": "Then it moves to the right.",
+      "service": "gtts"
+    },
+    "original_audio": "then-it-moves-to-the-right-4a2794bb.mp3",
+    "final_audio": "then-it-moves-to-the-right-4a2794bb.mp3"
+  },
+  {
+    "input_text": "Wait gives viewers time to process what they see.",
+    "input_data": {
+      "input_text": "Wait gives viewers time to process what they see.",
+      "service": "gtts"
+    },
+    "original_audio": "wait-gives-viewers-time-to-process-what-they-see-ba26b68d.mp3",
+    "final_audio": "wait-gives-viewers-time-to-process-what-they-see-ba26b68d.mp3"
+  },
+  {
+    "input_text": "Removing the circle.",
+    "input_data": {
+      "input_text": "Removing the circle.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-circle-dd1bcb3b.mp3",
+    "final_audio": "removing-the-circle-dd1bcb3b.mp3"
+  },
+  {
+    "input_text": "Sequential animations happen one after another. First the red circle.",
+    "input_data": {
+      "input_text": "Sequential animations happen one after another. First the red circle.",
+      "service": "gtts"
+    },
+    "original_audio": "sequential-animations-happen-one-after-another-87491999.mp3",
+    "final_audio": "sequential-animations-happen-one-after-another-87491999.mp3"
+  },
+  {
+    "input_text": "Then the green circle.",
+    "input_data": {
+      "input_text": "Then the green circle.",
+      "service": "gtts"
+    },
+    "original_audio": "then-the-green-circle-18e6b4fb.mp3",
+    "final_audio": "then-the-green-circle-18e6b4fb.mp3"
+  },
+  {
+    "input_text": "Finally the blue circle.",
+    "input_data": {
+      "input_text": "Finally the blue circle.",
+      "service": "gtts"
+    },
+    "original_audio": "finally-the-blue-circle-514067b0.mp3",
+    "final_audio": "finally-the-blue-circle-514067b0.mp3"
+  },
+  {
+    "input_text": "Now they move up one at a time. Red first.",
+    "input_data": {
+      "input_text": "Now they move up one at a time. Red first.",
+      "service": "gtts"
+    },
+    "original_audio": "now-they-move-up-one-at-a-time-red-first-fcc49b70.mp3",
+    "final_audio": "now-they-move-up-one-at-a-time-red-first-fcc49b70.mp3"
+  },
+  {
+    "input_text": "Then green.",
+    "input_data": {
+      "input_text": "Then green.",
+      "service": "gtts"
+    },
+    "original_audio": "then-green-260dfde8.mp3",
+    "final_audio": "then-green-260dfde8.mp3"
+  },
+  {
+    "input_text": "Finally blue.",
+    "input_data": {
+      "input_text": "Finally blue.",
+      "service": "gtts"
+    },
+    "original_audio": "finally-blue-cca11679.mp3",
+    "final_audio": "finally-blue-cca11679.mp3"
+  },
+  {
+    "input_text": "Sequential timing creates step-by-step narratives.",
+    "input_data": {
+      "input_text": "Sequential timing creates step-by-step narratives.",
+      "service": "gtts"
+    },
+    "original_audio": "sequential-timing-creates-step-by-step-narratives-068aca6e.mp3",
+    "final_audio": "sequential-timing-creates-step-by-step-narratives-068aca6e.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "Simultaneous animations happen all at once. All three circles appear together.",
+    "input_data": {
+      "input_text": "Simultaneous animations happen all at once. All three circles appear together.",
+      "service": "gtts"
+    },
+    "original_audio": "simultaneous-animations-happen-all-at-once-all-468357db.mp3",
+    "final_audio": "simultaneous-animations-happen-all-at-once-all-468357db.mp3"
+  },
+  {
+    "input_text": "Now they all move up at the same time.",
+    "input_data": {
+      "input_text": "Now they all move up at the same time.",
+      "service": "gtts"
+    },
+    "original_audio": "now-they-all-move-up-at-the-same-time-382d53fd.mp3",
+    "final_audio": "now-they-all-move-up-at-the-same-time-382d53fd.mp3"
+  },
+  {
+    "input_text": "Simultaneous timing creates coordinated motion.",
+    "input_data": {
+      "input_text": "Simultaneous timing creates coordinated motion.",
+      "service": "gtts"
+    },
+    "original_audio": "simultaneous-timing-creates-coordinated-motion-e00b1050.mp3",
+    "final_audio": "simultaneous-timing-creates-coordinated-motion-e00b1050.mp3"
+  },
+  {
+    "input_text": "Removing everything together.",
+    "input_data": {
+      "input_text": "Removing everything together.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-everything-together-f3482074.mp3",
+    "final_audio": "removing-everything-together-f3482074.mp3"
+  },
+  {
+    "input_text": "The top circle moves with linear speed, constant throughout.",
+    "input_data": {
+      "input_text": "The top circle moves with linear speed, constant throughout.",
+      "service": "gtts"
+    },
+    "original_audio": "the-top-circle-moves-with-linear-speed-constant-f2ad899d.mp3",
+    "final_audio": "the-top-circle-moves-with-linear-speed-constant-f2ad899d.mp3"
+  },
+  {
+    "input_text": "The middle circle uses smooth rate function, slow at start and end, fast in middle.",
+    "input_data": {
+      "input_text": "The middle circle uses smooth rate function, slow at start and end, fast in middle.",
+      "service": "gtts"
+    },
+    "original_audio": "the-middle-circle-uses-smooth-rate-function-slow-6d0e75f5.mp3",
+    "final_audio": "the-middle-circle-uses-smooth-rate-function-slow-6d0e75f5.mp3"
+  },
+  {
+    "input_text": "The bottom circle rushes into the end, starting slow and speeding up.",
+    "input_data": {
+      "input_text": "The bottom circle rushes into the end, starting slow and speeding up.",
+      "service": "gtts"
+    },
+    "original_audio": "the-bottom-circle-rushes-into-the-end-starting-6959dde5.mp3",
+    "final_audio": "the-bottom-circle-rushes-into-the-end-starting-6959dde5.mp3"
+  },
+  {
+    "input_text": "Rate functions control how animations accelerate and decelerate.",
+    "input_data": {
+      "input_text": "Rate functions control how animations accelerate and decelerate.",
+      "service": "gtts"
+    },
+    "original_audio": "rate-functions-control-how-animations-accelerate-fabaf4de.mp3",
+    "final_audio": "rate-functions-control-how-animations-accelerate-fabaf4de.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "We have a blue reference square.",
+    "input_data": {
+      "input_text": "We have a blue reference square.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-a-blue-reference-square-4f53a92e.mp3",
+    "final_audio": "we-have-a-blue-reference-square-4f53a92e.mp3"
+  },
+  {
+    "input_text": "Four circles are aligned to the square's edges: red left, green right, yellow top, purple bottom.",
+    "input_data": {
+      "input_text": "Four circles are aligned to the square's edges: red left, green right, yellow top, purple bottom.",
+      "service": "gtts"
+    },
+    "original_audio": "four-circles-are-aligned-to-the-square-s-edges-red-f70b8b0b.mp3",
+    "final_audio": "four-circles-are-aligned-to-the-square-s-edges-red-f70b8b0b.mp3"
+  },
+  {
+    "input_text": "Align to positions objects precisely relative to other objects.",
+    "input_data": {
+      "input_text": "Align to positions objects precisely relative to other objects.",
+      "service": "gtts"
+    },
+    "original_audio": "align-to-positions-objects-precisely-relative-to-a7893af5.mp3",
+    "final_audio": "align-to-positions-objects-precisely-relative-to-a7893af5.mp3"
+  },
+  {
+    "input_text": "Clearing the scene.",
+    "input_data": {
+      "input_text": "Clearing the scene.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-scene-508d06f3.mp3",
+    "final_audio": "clearing-the-scene-508d06f3.mp3"
+  },
+  {
+    "input_text": "Arrange in grid automatically positions objects in rows and columns. Here's a three by three grid.",
+    "input_data": {
+      "input_text": "Arrange in grid automatically positions objects in rows and columns. Here's a three by three grid.",
+      "service": "gtts"
+    },
+    "original_audio": "arrange-in-grid-automatically-positions-objects-in-e6374d3e.mp3",
+    "final_audio": "arrange-in-grid-automatically-positions-objects-in-e6374d3e.mp3"
+  },
+  {
+    "input_text": "This is perfect for creating structured layouts.",
+    "input_data": {
+      "input_text": "This is perfect for creating structured layouts.",
+      "service": "gtts"
+    },
+    "original_audio": "this-is-perfect-for-creating-structured-layouts-5383ffff.mp3",
+    "final_audio": "this-is-perfect-for-creating-structured-layouts-5383ffff.mp3"
+  },
+  {
+    "input_text": "Removing the grid.",
+    "input_data": {
+      "input_text": "Removing the grid.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-grid-d8cceff5.mp3",
+    "final_audio": "removing-the-grid-d8cceff5.mp3"
+  },
+  {
+    "input_text": "These shapes are arranged in a horizontal row, from left to right.",
+    "input_data": {
+      "input_text": "These shapes are arranged in a horizontal row, from left to right.",
+      "service": "gtts"
+    },
+    "original_audio": "these-shapes-are-arranged-in-a-horizontal-row-from-3e9f28c9.mp3",
+    "final_audio": "these-shapes-are-arranged-in-a-horizontal-row-from-3e9f28c9.mp3"
+  },
+  {
+    "input_text": "Now let's rearrange them in a vertical column.",
+    "input_data": {
+      "input_text": "Now let's rearrange them in a vertical column.",
+      "service": "gtts"
+    },
+    "original_audio": "now-let-s-rearrange-them-in-a-vertical-column-4f5fdabb.mp3",
+    "final_audio": "now-let-s-rearrange-them-in-a-vertical-column-4f5fdabb.mp3"
+  },
+  {
+    "input_text": "Arrange makes it easy to line up objects.",
+    "input_data": {
+      "input_text": "Arrange makes it easy to line up objects.",
+      "service": "gtts"
+    },
+    "original_audio": "arrange-makes-it-easy-to-line-up-objects-b2c53c86.mp3",
+    "final_audio": "arrange-makes-it-easy-to-line-up-objects-b2c53c86.mp3"
+  },
+  {
+    "input_text": "Removing the shapes.",
+    "input_data": {
+      "input_text": "Removing the shapes.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-shapes-f308249b.mp3",
+    "final_audio": "removing-the-shapes-f308249b.mp3"
+  },
+  {
+    "input_text": "This text is centered at the origin.",
+    "input_data": {
+      "input_text": "This text is centered at the origin.",
+      "service": "gtts"
+    },
+    "original_audio": "this-text-is-centered-at-the-origin-4ac17f6d.mp3",
+    "final_audio": "this-text-is-centered-at-the-origin-4ac17f6d.mp3"
+  },
+  {
+    "input_text": "Now it shifts up two units.",
+    "input_data": {
+      "input_text": "Now it shifts up two units.",
+      "service": "gtts"
+    },
+    "original_audio": "now-it-shifts-up-two-units-b9b12682.mp3",
+    "final_audio": "now-it-shifts-up-two-units-b9b12682.mp3"
+  },
+  {
+    "input_text": "Back to center using move to.",
+    "input_data": {
+      "input_text": "Back to center using move to.",
+      "service": "gtts"
+    },
+    "original_audio": "back-to-center-using-move-to-f272194b.mp3",
+    "final_audio": "back-to-center-using-move-to-f272194b.mp3"
+  },
+  {
+    "input_text": "And down two units using shift.",
+    "input_data": {
+      "input_text": "And down two units using shift.",
+      "service": "gtts"
+    },
+    "original_audio": "and-down-two-units-using-shift-409aab8d.mp3",
+    "final_audio": "and-down-two-units-using-shift-409aab8d.mp3"
+  },
+  {
+    "input_text": "Move to sets absolute position, shift moves relatively.",
+    "input_data": {
+      "input_text": "Move to sets absolute position, shift moves relatively.",
+      "service": "gtts"
+    },
+    "original_audio": "move-to-sets-absolute-position-shift-moves-dbb90257.mp3",
+    "final_audio": "move-to-sets-absolute-position-shift-moves-dbb90257.mp3"
+  },
+  {
+    "input_text": "Removing the text.",
+    "input_data": {
+      "input_text": "Removing the text.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-text-8f0d7317.mp3",
+    "final_audio": "removing-the-text-8f0d7317.mp3"
+  },
+  {
+    "input_text": "We have a large blue square.",
+    "input_data": {
+      "input_text": "We have a large blue square.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-a-large-blue-square-4b4e7f50.mp3",
+    "final_audio": "we-have-a-large-blue-square-4b4e7f50.mp3"
+  },
+  {
+    "input_text": "A small red circle is positioned at the square's exact center using get center.",
+    "input_data": {
+      "input_text": "A small red circle is positioned at the square's exact center using get center.",
+      "service": "gtts"
+    },
+    "original_audio": "a-small-red-circle-is-positioned-at-the-square-s-7780e992.mp3",
+    "final_audio": "a-small-red-circle-is-positioned-at-the-square-s-7780e992.mp3"
+  },
+  {
+    "input_text": "Get center returns the coordinates of an object's center point.",
+    "input_data": {
+      "input_text": "Get center returns the coordinates of an object's center point.",
+      "service": "gtts"
+    },
+    "original_audio": "get-center-returns-the-coordinates-of-an-object-s-3ae03b18.mp3",
+    "final_audio": "get-center-returns-the-coordinates-of-an-object-s-3ae03b18.mp3"
+  },
+  {
+    "input_text": "Clearing everything.",
+    "input_data": {
+      "input_text": "Clearing everything.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-everything-777945f3.mp3",
+    "final_audio": "clearing-everything-777945f3.mp3"
+  },
+  {
+    "input_text": "When working with many objects, we use loops to create them efficiently. Here are six colored circles.",
+    "input_data": {
+      "input_text": "When working with many objects, we use loops to create them efficiently. Here are six colored circles.",
+      "service": "gtts"
+    },
+    "original_audio": "when-working-with-many-objects-we-use-loops-to-28d55366.mp3",
+    "final_audio": "when-working-with-many-objects-we-use-loops-to-28d55366.mp3"
+  },
+  {
+    "input_text": "They appear all at once using list comprehension.",
+    "input_data": {
+      "input_text": "They appear all at once using list comprehension.",
+      "service": "gtts"
+    },
+    "original_audio": "they-appear-all-at-once-using-list-comprehension-792d3934.mp3",
+    "final_audio": "they-appear-all-at-once-using-list-comprehension-792d3934.mp3"
+  },
+  {
+    "input_text": "Removing all circles.",
+    "input_data": {
+      "input_text": "Removing all circles.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-circles-eb7a4fc8.mp3",
+    "final_audio": "removing-all-circles-eb7a4fc8.mp3"
+  },
+  {
+    "input_text": "List comprehension creates multiple objects in one line of code. Watch ten squares appear sequentially.",
+    "input_data": {
+      "input_text": "List comprehension creates multiple objects in one line of code. Watch ten squares appear sequentially.",
+      "service": "gtts"
+    },
+    "original_audio": "list-comprehension-creates-multiple-objects-in-one-c0aa821e.mp3",
+    "final_audio": "list-comprehension-creates-multiple-objects-in-one-c0aa821e.mp3"
+  },
+  {
+    "input_text": "This is an efficient way to create patterns.",
+    "input_data": {
+      "input_text": "This is an efficient way to create patterns.",
+      "service": "gtts"
+    },
+    "original_audio": "this-is-an-efficient-way-to-create-patterns-ae9c7d7b.mp3",
+    "final_audio": "this-is-an-efficient-way-to-create-patterns-ae9c7d7b.mp3"
+  },
+  {
+    "input_text": "Removing all squares.",
+    "input_data": {
+      "input_text": "Removing all squares.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-squares-0e51e1ad.mp3",
+    "final_audio": "removing-all-squares-0e51e1ad.mp3"
+  },
+  {
+    "input_text": "AnimationGroup controls timing with lag ratio. These circles overlap their animations by fifty percent.",
+    "input_data": {
+      "input_text": "AnimationGroup controls timing with lag ratio. These circles overlap their animations by fifty percent.",
+      "service": "gtts"
+    },
+    "original_audio": "animationgroup-controls-timing-with-lag-ratio-1e424028.mp3",
+    "final_audio": "animationgroup-controls-timing-with-lag-ratio-1e424028.mp3"
+  },
+  {
+    "input_text": "This creates a cascading effect.",
+    "input_data": {
+      "input_text": "This creates a cascading effect.",
+      "service": "gtts"
+    },
+    "original_audio": "this-creates-a-cascading-effect-eef87899.mp3",
+    "final_audio": "this-creates-a-cascading-effect-eef87899.mp3"
+  },
+  {
+    "input_text": "Removing the circles.",
+    "input_data": {
+      "input_text": "Removing the circles.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-circles-17b74963.mp3",
+    "final_audio": "removing-the-circles-17b74963.mp3"
+  },
+  {
+    "input_text": "We start with an original blue circle on the left.",
+    "input_data": {
+      "input_text": "We start with an original blue circle on the left.",
+      "service": "gtts"
+    },
+    "original_audio": "we-start-with-an-original-blue-circle-on-the-left-a0b95f84.mp3",
+    "final_audio": "we-start-with-an-original-blue-circle-on-the-left-a0b95f84.mp3"
+  },
+  {
+    "input_text": "Using copy, we create a duplicate and shift it.",
+    "input_data": {
+      "input_text": "Using copy, we create a duplicate and shift it.",
+      "service": "gtts"
+    },
+    "original_audio": "using-copy-we-create-a-duplicate-and-shift-it-e9b1d977.mp3",
+    "final_audio": "using-copy-we-create-a-duplicate-and-shift-it-e9b1d977.mp3"
+  },
+  {
+    "input_text": "We can make multiple copies with all properties preserved.",
+    "input_data": {
+      "input_text": "We can make multiple copies with all properties preserved.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-make-multiple-copies-with-all-properties-c1a86d39.mp3",
+    "final_audio": "we-can-make-multiple-copies-with-all-properties-c1a86d39.mp3"
+  },
+  {
+    "input_text": "Copying is useful for creating patterns.",
+    "input_data": {
+      "input_text": "Copying is useful for creating patterns.",
+      "service": "gtts"
+    },
+    "original_audio": "copying-is-useful-for-creating-patterns-1f86445e.mp3",
+    "final_audio": "copying-is-useful-for-creating-patterns-1f86445e.mp3"
+  },
+  {
+    "input_text": "Removing all objects.",
+    "input_data": {
+      "input_text": "Removing all objects.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-objects-59489833.mp3",
+    "final_audio": "removing-all-objects-59489833.mp3"
+  },
+  {
+    "input_text": "The yellow line always connects the circle to the dot, even as they move.",
+    "input_data": {
+      "input_text": "The yellow line always connects the circle to the dot, even as they move.",
+      "service": "gtts"
+    },
+    "original_audio": "the-yellow-line-always-connects-the-circle-to-the-6fc59a12.mp3",
+    "final_audio": "the-yellow-line-always-connects-the-circle-to-the-6fc59a12.mp3"
+  },
+  {
+    "input_text": "Watch the line update automatically as the circle moves right.",
+    "input_data": {
+      "input_text": "Watch the line update automatically as the circle moves right.",
+      "service": "gtts"
+    },
+    "original_audio": "watch-the-line-update-automatically-as-the-circle-4898049b.mp3",
+    "final_audio": "watch-the-line-update-automatically-as-the-circle-4898049b.mp3"
+  },
+  {
+    "input_text": "And as it moves up, the line follows.",
+    "input_data": {
+      "input_text": "And as it moves up, the line follows.",
+      "service": "gtts"
+    },
+    "original_audio": "and-as-it-moves-up-the-line-follows-887836aa.mp3",
+    "final_audio": "and-as-it-moves-up-the-line-follows-887836aa.mp3"
+  },
+  {
+    "input_text": "Always redraw creates dynamic, responsive objects.",
+    "input_data": {
+      "input_text": "Always redraw creates dynamic, responsive objects.",
+      "service": "gtts"
+    },
+    "original_audio": "always-redraw-creates-dynamic-responsive-objects-faf959b2.mp3",
+    "final_audio": "always-redraw-creates-dynamic-responsive-objects-faf959b2.mp3"
+  },
+  {
+    "input_text": "Removing everything.",
+    "input_data": {
+      "input_text": "Removing everything.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-everything-5a90f055.mp3",
+    "final_audio": "removing-everything-5a90f055.mp3"
+  },
+  {
+    "input_text": "VGroup combines multiple objects into one. Here's a circle, square, and triangle grouped together.",
+    "input_data": {
+      "input_text": "VGroup combines multiple objects into one. Here's a circle, square, and triangle grouped together.",
+      "service": "gtts"
+    },
+    "original_audio": "vgroup-combines-multiple-objects-into-one-here-s-a-b33c5429.mp3",
+    "final_audio": "vgroup-combines-multiple-objects-into-one-here-s-a-b33c5429.mp3"
+  },
+  {
+    "input_text": "Now we can move the entire group as one unit.",
+    "input_data": {
+      "input_text": "Now we can move the entire group as one unit.",
+      "service": "gtts"
+    },
+    "original_audio": "now-we-can-move-the-entire-group-as-one-unit-7da5a50e.mp3",
+    "final_audio": "now-we-can-move-the-entire-group-as-one-unit-7da5a50e.mp3"
+  },
+  {
+    "input_text": "Grouping simplifies working with related objects.",
+    "input_data": {
+      "input_text": "Grouping simplifies working with related objects.",
+      "service": "gtts"
+    },
+    "original_audio": "grouping-simplifies-working-with-related-objects-8807a2cc.mp3",
+    "final_audio": "grouping-simplifies-working-with-related-objects-8807a2cc.mp3"
+  },
+  {
+    "input_text": "Removing the group.",
+    "input_data": {
+      "input_text": "Removing the group.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-group-3354f765.mp3",
+    "final_audio": "removing-the-group-3354f765.mp3"
+  },
+  {
+    "input_text": "We have five blue circles in a group.",
+    "input_data": {
+      "input_text": "We have five blue circles in a group.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-five-blue-circles-in-a-group-55a6d242.mp3",
+    "final_audio": "we-have-five-blue-circles-in-a-group-55a6d242.mp3"
+  },
+  {
+    "input_text": "We can scale the entire group larger.",
+    "input_data": {
+      "input_text": "We can scale the entire group larger.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-scale-the-entire-group-larger-94585e97.mp3",
+    "final_audio": "we-can-scale-the-entire-group-larger-94585e97.mp3"
+  },
+  {
+    "input_text": "Rotate all circles around their common center.",
+    "input_data": {
+      "input_text": "Rotate all circles around their common center.",
+      "service": "gtts"
+    },
+    "original_audio": "rotate-all-circles-around-their-common-center-b65e248c.mp3",
+    "final_audio": "rotate-all-circles-around-their-common-center-b65e248c.mp3"
+  },
+  {
+    "input_text": "And change the color of the whole group to red.",
+    "input_data": {
+      "input_text": "And change the color of the whole group to red.",
+      "service": "gtts"
+    },
+    "original_audio": "and-change-the-color-of-the-whole-group-to-red-48537a2b.mp3",
+    "final_audio": "and-change-the-color-of-the-whole-group-to-red-48537a2b.mp3"
+  },
+  {
+    "input_text": "Group operations apply to all members simultaneously.",
+    "input_data": {
+      "input_text": "Group operations apply to all members simultaneously.",
+      "service": "gtts"
+    },
+    "original_audio": "group-operations-apply-to-all-members-b0b12200.mp3",
+    "final_audio": "group-operations-apply-to-all-members-b0b12200.mp3"
+  },
+  {
+    "input_text": "Removing the group.",
+    "input_data": {
+      "input_text": "Removing the group.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-group-3354f765.mp3",
+    "final_audio": "removing-the-group-3354f765.mp3"
+  },
+  {
+    "input_text": "We can start with an empty group and add squares one by one.",
+    "input_data": {
+      "input_text": "We can start with an empty group and add squares one by one.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-start-with-an-empty-group-and-add-squares-adf4efa8.mp3",
+    "final_audio": "we-can-start-with-an-empty-group-and-add-squares-adf4efa8.mp3"
+  },
+  {
+    "input_text": "Now they're all grouped, so we can move them together.",
+    "input_data": {
+      "input_text": "Now they're all grouped, so we can move them together.",
+      "service": "gtts"
+    },
+    "original_audio": "now-they-re-all-grouped-so-we-can-move-them-fc5fdb89.mp3",
+    "final_audio": "now-they-re-all-grouped-so-we-can-move-them-fc5fdb89.mp3"
+  },
+  {
+    "input_text": "Adding to groups dynamically is very flexible.",
+    "input_data": {
+      "input_text": "Adding to groups dynamically is very flexible.",
+      "service": "gtts"
+    },
+    "original_audio": "adding-to-groups-dynamically-is-very-flexible-98c97200.mp3",
+    "final_audio": "adding-to-groups-dynamically-is-very-flexible-98c97200.mp3"
+  },
+  {
+    "input_text": "Removing the group.",
+    "input_data": {
+      "input_text": "Removing the group.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-group-3354f765.mp3",
+    "final_audio": "removing-the-group-3354f765.mp3"
+  },
+  {
+    "input_text": "We have three separate groups: blue circles, green squares, and red triangles.",
+    "input_data": {
+      "input_text": "We have three separate groups: blue circles, green squares, and red triangles.",
+      "service": "gtts"
+    },
+    "original_audio": "we-have-three-separate-groups-blue-circles-green-6425d241.mp3",
+    "final_audio": "we-have-three-separate-groups-blue-circles-green-6425d241.mp3"
+  },
+  {
+    "input_text": "These three groups are nested inside a mega-group, so they can all rotate together.",
+    "input_data": {
+      "input_text": "These three groups are nested inside a mega-group, so they can all rotate together.",
+      "service": "gtts"
+    },
+    "original_audio": "these-three-groups-are-nested-inside-a-mega-group-e73c11b7.mp3",
+    "final_audio": "these-three-groups-are-nested-inside-a-mega-group-e73c11b7.mp3"
+  },
+  {
+    "input_text": "Nested groups allow complex hierarchies.",
+    "input_data": {
+      "input_text": "Nested groups allow complex hierarchies.",
+      "service": "gtts"
+    },
+    "original_audio": "nested-groups-allow-complex-hierarchies-a53509e3.mp3",
+    "final_audio": "nested-groups-allow-complex-hierarchies-a53509e3.mp3"
+  },
+  {
+    "input_text": "Removing everything.",
+    "input_data": {
+      "input_text": "Removing everything.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-everything-5a90f055.mp3",
+    "final_audio": "removing-everything-5a90f055.mp3"
+  },
+  {
+    "input_text": "Groups are great for combining shapes with their labels. Here's a labeled circle and square.",
+    "input_data": {
+      "input_text": "Groups are great for combining shapes with their labels. Here's a labeled circle and square.",
+      "service": "gtts"
+    },
+    "original_audio": "groups-are-great-for-combining-shapes-with-their-20b9c6aa.mp3",
+    "final_audio": "groups-are-great-for-combining-shapes-with-their-20b9c6aa.mp3"
+  },
+  {
+    "input_text": "Each group includes both the shape and its text label.",
+    "input_data": {
+      "input_text": "Each group includes both the shape and its text label.",
+      "service": "gtts"
+    },
+    "original_audio": "each-group-includes-both-the-shape-and-its-text-2de865ee.mp3",
+    "final_audio": "each-group-includes-both-the-shape-and-its-text-2de865ee.mp3"
+  },
+  {
+    "input_text": "Removing both groups.",
+    "input_data": {
+      "input_text": "Removing both groups.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-both-groups-5631fff2.mp3",
+    "final_audio": "removing-both-groups-5631fff2.mp3"
+  },
+  {
+    "input_text": "MathTex creates mathematical equations using LaTeX syntax. This is Einstein's famous equation.",
+    "input_data": {
+      "input_text": "MathTex creates mathematical equations using LaTeX syntax. This is Einstein's famous equation.",
+      "service": "gtts"
+    },
+    "original_audio": "mathtex-creates-mathematical-equations-using-latex-48df3bba.mp3",
+    "final_audio": "mathtex-creates-mathematical-equations-using-latex-48df3bba.mp3"
+  },
+  {
+    "input_text": "E equals M C squared.",
+    "input_data": {
+      "input_text": "E equals M C squared.",
+      "service": "gtts"
+    },
+    "original_audio": "e-equals-m-c-squared-74185aaa.mp3",
+    "final_audio": "e-equals-m-c-squared-74185aaa.mp3"
+  },
+  {
+    "input_text": "LaTeX makes equations look professional.",
+    "input_data": {
+      "input_text": "LaTeX makes equations look professional.",
+      "service": "gtts"
+    },
+    "original_audio": "latex-makes-equations-look-professional-55ee1afa.mp3",
+    "final_audio": "latex-makes-equations-look-professional-55ee1afa.mp3"
+  },
+  {
+    "input_text": "Here's the Pythagorean theorem at the top.",
+    "input_data": {
+      "input_text": "Here's the Pythagorean theorem at the top.",
+      "service": "gtts"
+    },
+    "original_audio": "here-s-the-pythagorean-theorem-at-the-top-bb04be4e.mp3",
+    "final_audio": "here-s-the-pythagorean-theorem-at-the-top-bb04be4e.mp3"
+  },
+  {
+    "input_text": "The Gaussian integral in the middle.",
+    "input_data": {
+      "input_text": "The Gaussian integral in the middle.",
+      "service": "gtts"
+    },
+    "original_audio": "the-gaussian-integral-in-the-middle-62c2c32b.mp3",
+    "final_audio": "the-gaussian-integral-in-the-middle-62c2c32b.mp3"
+  },
+  {
+    "input_text": "And the Basel problem solution at the bottom.",
+    "input_data": {
+      "input_text": "And the Basel problem solution at the bottom.",
+      "service": "gtts"
+    },
+    "original_audio": "and-the-basel-problem-solution-at-the-bottom-e9b2be16.mp3",
+    "final_audio": "and-the-basel-problem-solution-at-the-bottom-e9b2be16.mp3"
+  },
+  {
+    "input_text": "Multiple equations can be displayed together.",
+    "input_data": {
+      "input_text": "Multiple equations can be displayed together.",
+      "service": "gtts"
+    },
+    "original_audio": "multiple-equations-can-be-displayed-together-ed6eb893.mp3",
+    "final_audio": "multiple-equations-can-be-displayed-together-ed6eb893.mp3"
+  },
+  {
+    "input_text": "Removing all equations.",
+    "input_data": {
+      "input_text": "Removing all equations.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-equations-2f4ff488.mp3",
+    "final_audio": "removing-all-equations-2f4ff488.mp3"
+  },
+  {
+    "input_text": "This is the quadratic formula with color-coded parts for clarity.",
+    "input_data": {
+      "input_text": "This is the quadratic formula with color-coded parts for clarity.",
+      "service": "gtts"
+    },
+    "original_audio": "this-is-the-quadratic-formula-with-color-coded-70a756e5.mp3",
+    "final_audio": "this-is-the-quadratic-formula-with-color-coded-70a756e5.mp3"
+  },
+  {
+    "input_text": "Different colors highlight different components: yellow X, red negative B, blue square root, and green denominator.",
+    "input_data": {
+      "input_text": "Different colors highlight different components: yellow X, red negative B, blue square root, and green denominator.",
+      "service": "gtts"
+    },
+    "original_audio": "different-colors-highlight-different-components-2c7f811b.mp3",
+    "final_audio": "different-colors-highlight-different-components-2c7f811b.mp3"
+  },
+  {
+    "input_text": "Colors make complex equations easier to understand.",
+    "input_data": {
+      "input_text": "Colors make complex equations easier to understand.",
+      "service": "gtts"
+    },
+    "original_audio": "colors-make-complex-equations-easier-to-understand-2cf24e64.mp3",
+    "final_audio": "colors-make-complex-equations-easier-to-understand-2cf24e64.mp3"
+  },
+  {
+    "input_text": "Removing the equation.",
+    "input_data": {
+      "input_text": "Removing the equation.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-equation-5181c727.mp3",
+    "final_audio": "removing-the-equation-5181c727.mp3"
+  },
+  {
+    "input_text": "We start with the expanded form: X squared plus two X plus one.",
+    "input_data": {
+      "input_text": "We start with the expanded form: X squared plus two X plus one.",
+      "service": "gtts"
+    },
+    "original_audio": "we-start-with-the-expanded-form-x-squared-plus-two-5adcf893.mp3",
+    "final_audio": "we-start-with-the-expanded-form-x-squared-plus-two-5adcf893.mp3"
+  },
+  {
+    "input_text": "Watch it transform into the factored form: X plus one, squared.",
+    "input_data": {
+      "input_text": "Watch it transform into the factored form: X plus one, squared.",
+      "service": "gtts"
+    },
+    "original_audio": "watch-it-transform-into-the-factored-form-x-plus-c9caca14.mp3",
+    "final_audio": "watch-it-transform-into-the-factored-form-x-plus-c9caca14.mp3"
+  },
+  {
+    "input_text": "This shows algebraic simplification visually.",
+    "input_data": {
+      "input_text": "This shows algebraic simplification visually.",
+      "service": "gtts"
+    },
+    "original_audio": "this-shows-algebraic-simplification-visually-09329854.mp3",
+    "final_audio": "this-shows-algebraic-simplification-visually-09329854.mp3"
+  },
+  {
+    "input_text": "Removing the equation.",
+    "input_data": {
+      "input_text": "Removing the equation.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-equation-5181c727.mp3",
+    "final_audio": "removing-the-equation-5181c727.mp3"
+  },
+  {
+    "input_text": "Here's a title explaining what theorem we're showing.",
+    "input_data": {
+      "input_text": "Here's a title explaining what theorem we're showing.",
+      "service": "gtts"
+    },
+    "original_audio": "here-s-a-title-explaining-what-theorem-we-re-cf7f2f0c.mp3",
+    "final_audio": "here-s-a-title-explaining-what-theorem-we-re-cf7f2f0c.mp3"
+  },
+  {
+    "input_text": "The equation itself, nicely sized.",
+    "input_data": {
+      "input_text": "The equation itself, nicely sized.",
+      "service": "gtts"
+    },
+    "original_audio": "the-equation-itself-nicely-sized-b855d49d.mp3",
+    "final_audio": "the-equation-itself-nicely-sized-b855d49d.mp3"
+  },
+  {
+    "input_text": "And a description providing context below.",
+    "input_data": {
+      "input_text": "And a description providing context below.",
+      "service": "gtts"
+    },
+    "original_audio": "and-a-description-providing-context-below-67193df1.mp3",
+    "final_audio": "and-a-description-providing-context-below-67193df1.mp3"
+  },
+  {
+    "input_text": "Combining text and equations creates complete explanations.",
+    "input_data": {
+      "input_text": "Combining text and equations creates complete explanations.",
+      "service": "gtts"
+    },
+    "original_audio": "combining-text-and-equations-creates-complete-cf28a3b4.mp3",
+    "final_audio": "combining-text-and-equations-creates-complete-cf28a3b4.mp3"
+  },
+  {
+    "input_text": "Clearing the screen.",
+    "input_data": {
+      "input_text": "Clearing the screen.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-screen-1c85b7e8.mp3",
+    "final_audio": "clearing-the-screen-1c85b7e8.mp3"
+  },
+  {
+    "input_text": "Here's a sequence showing a function and its derivatives. First, F of X equals X squared.",
+    "input_data": {
+      "input_text": "Here's a sequence showing a function and its derivatives. First, F of X equals X squared.",
+      "service": "gtts"
+    },
+    "original_audio": "here-s-a-sequence-showing-a-function-and-its-01555266.mp3",
+    "final_audio": "here-s-a-sequence-showing-a-function-and-its-01555266.mp3"
+  },
+  {
+    "input_text": "The first derivative: F prime of X equals two X.",
+    "input_data": {
+      "input_text": "The first derivative: F prime of X equals two X.",
+      "service": "gtts"
+    },
+    "original_audio": "the-first-derivative-f-prime-of-x-equals-two-x-493fafdb.mp3",
+    "final_audio": "the-first-derivative-f-prime-of-x-equals-two-x-493fafdb.mp3"
+  },
+  {
+    "input_text": "The second derivative: F double prime of X equals two.",
+    "input_data": {
+      "input_text": "The second derivative: F double prime of X equals two.",
+      "service": "gtts"
+    },
+    "original_audio": "the-second-derivative-f-double-prime-of-x-equals-97690bd4.mp3",
+    "final_audio": "the-second-derivative-f-double-prime-of-x-equals-97690bd4.mp3"
+  },
+  {
+    "input_text": "Aligned equations show mathematical progressions clearly.",
+    "input_data": {
+      "input_text": "Aligned equations show mathematical progressions clearly.",
+      "service": "gtts"
+    },
+    "original_audio": "aligned-equations-show-mathematical-progressions-1b02f7ff.mp3",
+    "final_audio": "aligned-equations-show-mathematical-progressions-1b02f7ff.mp3"
+  },
+  {
+    "input_text": "Removing all equations.",
+    "input_data": {
+      "input_text": "Removing all equations.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-all-equations-2f4ff488.mp3",
+    "final_audio": "removing-all-equations-2f4ff488.mp3"
+  },
+  {
+    "input_text": "Here's a title explaining what theorem we're showing.",
+    "input_data": {
+      "input_text": "Here's a title explaining what theorem we're showing.",
+      "service": "gtts"
+    },
+    "original_audio": "here-s-a-title-explaining-what-theorem-we-re-cf7f2f0c.mp3",
+    "final_audio": "here-s-a-title-explaining-what-theorem-we-re-cf7f2f0c.mp3"
+  },
+  {
+    "input_text": "The equation itself, nicely sized.",
+    "input_data": {
+      "input_text": "The equation itself, nicely sized.",
+      "service": "gtts"
+    },
+    "original_audio": "the-equation-itself-nicely-sized-b855d49d.mp3",
+    "final_audio": "the-equation-itself-nicely-sized-b855d49d.mp3"
+  },
+  {
+    "input_text": "And a description providing context below.",
+    "input_data": {
+      "input_text": "And a description providing context below.",
+      "service": "gtts"
+    },
+    "original_audio": "and-a-description-providing-context-below-67193df1.mp3",
+    "final_audio": "and-a-description-providing-context-below-67193df1.mp3"
+  },
+  {
+    "input_text": "Combining text and equations creates complete explanations.",
+    "input_data": {
+      "input_text": "Combining text and equations creates complete explanations.",
+      "service": "gtts"
+    },
+    "original_audio": "combining-text-and-equations-creates-complete-cf28a3b4.mp3",
+    "final_audio": "combining-text-and-equations-creates-complete-cf28a3b4.mp3"
+  },
+  {
+    "input_text": "Clearing the screen.",
+    "input_data": {
+      "input_text": "Clearing the screen.",
+      "service": "gtts"
+    },
+    "original_audio": "clearing-the-screen-1c85b7e8.mp3",
+    "final_audio": "clearing-the-screen-1c85b7e8.mp3"
+  }
+]

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,052
+We have three separate groups: blue
+
+2
+00:00:03,152 --> 00:00:06,836
+circles, green squares, and red triangles.
+
+3
+00:00:07,000 --> 00:00:09,780
+These three groups are nested inside a
+
+4
+00:00:09,880 --> 00:00:13,116
+mega-group, so they can all rotate together.
+
+5
+00:00:13,266 --> 00:00:16,598
+Nested groups allow complex hierarchies.
+
+6
+00:00:16,666 --> 00:00:18,294
+Removing everything.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:05,084
+DrawBorderThenFill first draws the outline, then fills it in.
+
+2
+00:00:05,200 --> 00:00:09,780
+SpinInFromNothing spins and grows the object simultaneously.
+
+3
+00:00:09,933 --> 00:00:14,153
+GrowFromEdge expands the object from a specific edge.
+
+4
+00:00:14,266 --> 00:00:18,150
+These animations add variety to your presentations.
+
+5
+00:00:18,200 --> 00:00:19,588
+Clearing the scene.
+

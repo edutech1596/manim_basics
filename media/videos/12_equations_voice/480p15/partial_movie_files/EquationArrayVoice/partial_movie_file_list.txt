@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_with_voice/media/videos/12_equations_voice/480p15/partial_movie_files/EquationArrayVoice/1185818338_3650369221_223132457.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/12_equations_voice/480p15/partial_movie_files/EquationArrayVoice/624642324_4106638797_3135117934.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/12_equations_voice/480p15/partial_movie_files/EquationArrayVoice/624642324_1739366961_596382122.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/12_equations_voice/480p15/partial_movie_files/EquationArrayVoice/624642324_3102250769_1545837894.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/12_equations_voice/480p15/partial_movie_files/EquationArrayVoice/624642324_3041256785_1101682277.mp4'

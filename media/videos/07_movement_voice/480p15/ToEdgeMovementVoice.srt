@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,036
+We create a red circle.
+
+2
+00:00:02,200 --> 00:00:05,412
+To edge moves it all the way to the top edge.
+
+3
+00:00:05,533 --> 00:00:07,377
+Then to the right edge.
+
+4
+00:00:07,533 --> 00:00:09,041
+To the bottom edge.
+
+5
+00:00:09,200 --> 00:00:11,068
+And to the left edge.
+
+6
+00:00:11,200 --> 00:00:15,468
+To edge is perfect for placing objects at screen boundaries.
+

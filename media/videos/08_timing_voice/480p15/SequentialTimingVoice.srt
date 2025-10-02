@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:05,420
+Sequential animations happen one after another. First the red circle.
+
+2
+00:00:05,533 --> 00:00:07,185
+Then the green circle.
+
+3
+00:00:07,333 --> 00:00:09,225
+Finally the blue circle.
+
+4
+00:00:09,333 --> 00:00:13,049
+Now they move up one at a time. Red first.
+
+5
+00:00:13,200 --> 00:00:14,372
+Then green.
+
+6
+00:00:14,533 --> 00:00:15,825
+Finally blue.
+
+7
+00:00:15,933 --> 00:00:19,841
+Sequential timing creates step-by-step narratives.
+
+8
+00:00:19,933 --> 00:00:21,321
+Clearing the scene.
+

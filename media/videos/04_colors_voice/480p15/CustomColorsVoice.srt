@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,620
+We can create custom colors using hex codes.
+
+2
+00:00:03,733 --> 00:00:08,121
+These are custom coral, turquoise, and mint colors.
+
+3
+00:00:08,200 --> 00:00:11,604
+Custom colors let us match any color scheme.
+

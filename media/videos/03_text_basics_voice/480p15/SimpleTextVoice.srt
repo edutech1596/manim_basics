@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,260
+We can write text that appears letter by letter.
+
+2
+00:00:03,400 --> 00:00:06,444
+This is simple text rendering in Manim.
+
+3
+00:00:06,533 --> 00:00:08,425
+Now we'll fade it out.
+

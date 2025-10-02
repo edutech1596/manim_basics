@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/WaitTimingVoice/1185818338_1182211837_223132457.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/WaitTimingVoice/624642324_3157702439_3712042578.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/WaitTimingVoice/624642324_315463139_578674303.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/WaitTimingVoice/624642324_2870522230_578674303.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/WaitTimingVoice/624642324_328265134_4122537309.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/08_timing_voice/480p15/partial_movie_files/WaitTimingVoice/624642324_3796242913_2373750003.mp4'

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,804
+We create a blue circle at the center.
+
+2
+00:00:02,933 --> 00:00:05,785
+Now it shifts two units to the right.
+
+3
+00:00:05,933 --> 00:00:08,329
+Then it moves up two units.
+
+4
+00:00:08,466 --> 00:00:11,414
+Now it shifts four units to the left.
+
+5
+00:00:11,533 --> 00:00:14,721
+Finally, it moves down two units.
+
+6
+00:00:14,866 --> 00:00:19,590
+Shift moves objects by a relative amount from their current position.
+

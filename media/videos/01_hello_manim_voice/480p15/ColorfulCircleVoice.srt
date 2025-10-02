@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,364
+Let's create a larger blue circle with a semi-transparent fill.
+
+2
+00:00:04,466 --> 00:00:08,638
+Notice the circle has both an outline and a filled interior.
+
+3
+00:00:08,733 --> 00:00:10,937
+Now we'll make it disappear.
+

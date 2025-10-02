@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,668
+Here's a sequence showing a function and its
+
+2
+00:00:03,768 --> 00:00:07,436
+derivatives. First, F of X equals X squared.
+
+3
+00:00:07,600 --> 00:00:12,036
+The first derivative: F prime of X equals two X.
+
+4
+00:00:12,200 --> 00:00:16,732
+The second derivative: F double prime of X equals two.
+
+5
+00:00:16,866 --> 00:00:20,990
+Aligned equations show mathematical progressions clearly.
+
+6
+00:00:21,066 --> 00:00:23,102
+Removing all equations.
+

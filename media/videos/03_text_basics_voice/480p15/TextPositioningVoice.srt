@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,596
+We can position text at the top edge of the screen.
+
+2
+00:00:03,733 --> 00:00:05,097
+Or at the center.
+
+3
+00:00:05,200 --> 00:00:07,116
+Or at the bottom edge.
+
+4
+00:00:07,266 --> 00:00:11,678
+Positioning text is essential for creating clear presentations.
+
+5
+00:00:11,733 --> 00:00:13,121
+Clearing the scene.
+

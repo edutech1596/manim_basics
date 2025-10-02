@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,580
+These three circles demonstrate different stroke and fill properties.
+
+2
+00:00:04,733 --> 00:00:08,691
+The left has a thick blue outline. The middle has a
+
+3
+00:00:08,791 --> 00:00:13,465
+thin outline with fill. The right has no outline, only fill.
+
+4
+00:00:13,533 --> 00:00:14,945
+Let's remove them.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,686
+Here are three basic shapes: a red circle,
+
+2
+00:00:03,786 --> 00:00:06,932
+a blue square, and a green triangle.
+
+3
+00:00:07,066 --> 00:00:11,094
+Each shape has its own color and is semi-transparent.
+
+4
+00:00:11,133 --> 00:00:13,217
+Now let's remove them all.
+

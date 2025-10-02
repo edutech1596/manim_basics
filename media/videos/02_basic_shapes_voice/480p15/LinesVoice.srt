@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,684
+First, a simple white line.
+
+2
+00:00:02,800 --> 00:00:06,084
+Next, a yellow arrow pointing to the right.
+
+3
+00:00:06,200 --> 00:00:09,244
+Finally, a green double-headed arrow.
+
+4
+00:00:09,400 --> 00:00:11,450
+Lines and arrows are useful for
+
+5
+00:00:11,550 --> 00:00:14,364
+connecting objects and showing directions.
+
+6
+00:00:14,400 --> 00:00:15,788
+Clearing the scene.
+

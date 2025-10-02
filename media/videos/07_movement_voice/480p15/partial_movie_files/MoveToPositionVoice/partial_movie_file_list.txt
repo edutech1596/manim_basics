@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/apple/manim_with_voice/media/videos/07_movement_voice/480p15/partial_movie_files/MoveToPositionVoice/1185818338_1034456393_223132457.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/07_movement_voice/480p15/partial_movie_files/MoveToPositionVoice/624642324_2301679341_735197471.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/07_movement_voice/480p15/partial_movie_files/MoveToPositionVoice/624642324_2151387329_735197471.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/07_movement_voice/480p15/partial_movie_files/MoveToPositionVoice/624642324_1887105536_735197471.mp4'
+file 'file:/Users/apple/manim_with_voice/media/videos/07_movement_voice/480p15/partial_movie_files/MoveToPositionVoice/624642324_35651837_735197471.mp4'
